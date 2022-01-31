@@ -1,0 +1,1424 @@
+Loading training data...
+Training data loaded with 60000 images
+Loading testing data...
+Testing data loaded with 10000 images
+Epoch: [0][0/375]	Batch Time 0.007 	Batch Loss 2.3029	Train Accuracy 0.1016	
+Epoch: [0][10/375]	Batch Time 0.003 	Batch Loss 2.4343	Train Accuracy 0.0469	
+Epoch: [0][20/375]	Batch Time 0.003 	Batch Loss 2.3216	Train Accuracy 0.1250	
+Epoch: [0][30/375]	Batch Time 0.003 	Batch Loss 2.2583	Train Accuracy 0.2344	
+Epoch: [0][40/375]	Batch Time 0.004 	Batch Loss 2.2287	Train Accuracy 0.2188	
+Epoch: [0][50/375]	Batch Time 0.003 	Batch Loss 2.2076	Train Accuracy 0.1953	
+Epoch: [0][60/375]	Batch Time 0.003 	Batch Loss 2.0460	Train Accuracy 0.2734	
+Epoch: [0][70/375]	Batch Time 0.004 	Batch Loss 1.6872	Train Accuracy 0.4922	
+Epoch: [0][80/375]	Batch Time 0.003 	Batch Loss 1.3812	Train Accuracy 0.5312	
+Epoch: [0][90/375]	Batch Time 0.003 	Batch Loss 1.3124	Train Accuracy 0.5703	
+Epoch: [0][100/375]	Batch Time 0.003 	Batch Loss 1.0770	Train Accuracy 0.6172	
+Epoch: [0][110/375]	Batch Time 0.003 	Batch Loss 0.9406	Train Accuracy 0.6875	
+Epoch: [0][120/375]	Batch Time 0.003 	Batch Loss 0.7687	Train Accuracy 0.8516	
+Epoch: [0][130/375]	Batch Time 0.003 	Batch Loss 0.7991	Train Accuracy 0.7891	
+Epoch: [0][140/375]	Batch Time 0.003 	Batch Loss 0.6230	Train Accuracy 0.8359	
+Epoch: [0][150/375]	Batch Time 0.004 	Batch Loss 0.6091	Train Accuracy 0.8750	
+Epoch: [0][160/375]	Batch Time 0.003 	Batch Loss 0.5134	Train Accuracy 0.8516	
+Epoch: [0][170/375]	Batch Time 0.003 	Batch Loss 0.3301	Train Accuracy 0.9375	
+Epoch: [0][180/375]	Batch Time 0.003 	Batch Loss 0.5460	Train Accuracy 0.8594	
+Epoch: [0][190/375]	Batch Time 0.003 	Batch Loss 0.4522	Train Accuracy 0.8516	
+Epoch: [0][200/375]	Batch Time 0.004 	Batch Loss 0.4000	Train Accuracy 0.8750	
+Epoch: [0][210/375]	Batch Time 0.004 	Batch Loss 0.4442	Train Accuracy 0.8984	
+Epoch: [0][220/375]	Batch Time 0.003 	Batch Loss 0.4340	Train Accuracy 0.9062	
+Epoch: [0][230/375]	Batch Time 0.003 	Batch Loss 0.4170	Train Accuracy 0.8516	
+Epoch: [0][240/375]	Batch Time 0.003 	Batch Loss 0.4323	Train Accuracy 0.8828	
+Epoch: [0][250/375]	Batch Time 0.003 	Batch Loss 0.4449	Train Accuracy 0.8516	
+Epoch: [0][260/375]	Batch Time 0.005 	Batch Loss 0.4607	Train Accuracy 0.8594	
+Epoch: [0][270/375]	Batch Time 0.004 	Batch Loss 0.4323	Train Accuracy 0.8750	
+Epoch: [0][280/375]	Batch Time 0.003 	Batch Loss 0.3433	Train Accuracy 0.8828	
+Epoch: [0][290/375]	Batch Time 0.006 	Batch Loss 0.3939	Train Accuracy 0.8594	
+Epoch: [0][300/375]	Batch Time 0.004 	Batch Loss 0.3443	Train Accuracy 0.8828	
+Epoch: [0][310/375]	Batch Time 0.003 	Batch Loss 0.4138	Train Accuracy 0.8984	
+Epoch: [0][320/375]	Batch Time 0.003 	Batch Loss 0.3870	Train Accuracy 0.9297	
+Epoch: [0][330/375]	Batch Time 0.003 	Batch Loss 0.4767	Train Accuracy 0.8594	
+Epoch: [0][340/375]	Batch Time 0.003 	Batch Loss 0.2651	Train Accuracy 0.9062	
+Epoch: [0][350/375]	Batch Time 0.003 	Batch Loss 0.4472	Train Accuracy 0.8750	
+Epoch: [0][360/375]	Batch Time 0.003 	Batch Loss 0.3414	Train Accuracy 0.8984	
+Epoch: [0][370/375]	Batch Time 0.003 	Batch Loss 0.3822	Train Accuracy 0.8828	
+* Average Accuracy of Epoch 0 is: 0.6996
+Evaluate: [0/94]	Batch Accuracy 0.9375	
+Evaluate: [1/94]	Batch Accuracy 0.9531	
+Evaluate: [2/94]	Batch Accuracy 0.8359	
+Evaluate: [3/94]	Batch Accuracy 0.9297	
+Evaluate: [4/94]	Batch Accuracy 0.8750	
+Evaluate: [5/94]	Batch Accuracy 0.9375	
+Evaluate: [6/94]	Batch Accuracy 0.9141	
+Evaluate: [7/94]	Batch Accuracy 0.7656	
+Evaluate: [8/94]	Batch Accuracy 0.8594	
+Evaluate: [9/94]	Batch Accuracy 0.8594	
+Evaluate: [10/94]	Batch Accuracy 0.9297	
+Evaluate: [11/94]	Batch Accuracy 0.8438	
+Evaluate: [12/94]	Batch Accuracy 0.8203	
+Evaluate: [13/94]	Batch Accuracy 0.9297	
+Evaluate: [14/94]	Batch Accuracy 0.8828	
+Evaluate: [15/94]	Batch Accuracy 0.8906	
+Evaluate: [16/94]	Batch Accuracy 0.8828	
+Evaluate: [17/94]	Batch Accuracy 0.8828	
+Evaluate: [18/94]	Batch Accuracy 0.7734	
+Evaluate: [19/94]	Batch Accuracy 0.8906	
+Evaluate: [20/94]	Batch Accuracy 0.8203	
+Evaluate: [21/94]	Batch Accuracy 0.8750	
+Evaluate: [22/94]	Batch Accuracy 0.8750	
+Evaluate: [23/94]	Batch Accuracy 0.9062	
+Evaluate: [24/94]	Batch Accuracy 0.8828	
+Evaluate: [25/94]	Batch Accuracy 0.8594	
+Evaluate: [26/94]	Batch Accuracy 0.8828	
+Evaluate: [27/94]	Batch Accuracy 0.9141	
+Evaluate: [28/94]	Batch Accuracy 0.9375	
+Evaluate: [29/94]	Batch Accuracy 0.9297	
+Evaluate: [30/94]	Batch Accuracy 0.8828	
+Evaluate: [31/94]	Batch Accuracy 0.8594	
+Evaluate: [32/94]	Batch Accuracy 0.8047	
+Evaluate: [33/94]	Batch Accuracy 0.8750	
+Evaluate: [34/94]	Batch Accuracy 0.9062	
+Evaluate: [35/94]	Batch Accuracy 0.9531	
+Evaluate: [36/94]	Batch Accuracy 0.8594	
+Evaluate: [37/94]	Batch Accuracy 0.8828	
+Evaluate: [38/94]	Batch Accuracy 0.7734	
+Evaluate: [39/94]	Batch Accuracy 0.8828	
+Evaluate: [40/94]	Batch Accuracy 0.9062	
+Evaluate: [41/94]	Batch Accuracy 0.9062	
+Evaluate: [42/94]	Batch Accuracy 0.9453	
+Evaluate: [43/94]	Batch Accuracy 0.8906	
+Evaluate: [44/94]	Batch Accuracy 0.8672	
+Evaluate: [45/94]	Batch Accuracy 0.8750	
+Evaluate: [46/94]	Batch Accuracy 0.8359	
+Evaluate: [47/94]	Batch Accuracy 0.8828	
+Evaluate: [48/94]	Batch Accuracy 0.9141	
+Evaluate: [49/94]	Batch Accuracy 0.9062	
+Evaluate: [50/94]	Batch Accuracy 0.8906	
+Evaluate: [51/94]	Batch Accuracy 0.8594	
+Evaluate: [52/94]	Batch Accuracy 0.9531	
+Evaluate: [53/94]	Batch Accuracy 0.8516	
+Evaluate: [54/94]	Batch Accuracy 0.8594	
+Evaluate: [55/94]	Batch Accuracy 0.9453	
+Evaluate: [56/94]	Batch Accuracy 0.9141	
+Evaluate: [57/94]	Batch Accuracy 0.8906	
+Evaluate: [58/94]	Batch Accuracy 0.9297	
+Evaluate: [59/94]	Batch Accuracy 0.9141	
+Evaluate: [60/94]	Batch Accuracy 0.9375	
+Evaluate: [61/94]	Batch Accuracy 0.9453	
+Evaluate: [62/94]	Batch Accuracy 0.9531	
+Evaluate: [63/94]	Batch Accuracy 0.8984	
+Evaluate: [64/94]	Batch Accuracy 0.8750	
+Evaluate: [65/94]	Batch Accuracy 0.9062	
+Evaluate: [66/94]	Batch Accuracy 0.8750	
+Evaluate: [67/94]	Batch Accuracy 0.8281	
+Evaluate: [68/94]	Batch Accuracy 0.9453	
+Evaluate: [69/94]	Batch Accuracy 0.9375	
+Evaluate: [70/94]	Batch Accuracy 0.9141	
+Evaluate: [71/94]	Batch Accuracy 0.9609	
+Evaluate: [72/94]	Batch Accuracy 0.8438	
+Evaluate: [73/94]	Batch Accuracy 0.9375	
+Evaluate: [74/94]	Batch Accuracy 0.8594	
+Evaluate: [75/94]	Batch Accuracy 0.8672	
+Evaluate: [76/94]	Batch Accuracy 0.9141	
+Evaluate: [77/94]	Batch Accuracy 0.8906	
+Evaluate: [78/94]	Batch Accuracy 0.8984	
+Evaluate: [79/94]	Batch Accuracy 0.9844	
+Evaluate: [80/94]	Batch Accuracy 0.9531	
+Evaluate: [81/94]	Batch Accuracy 0.9062	
+Evaluate: [82/94]	Batch Accuracy 0.9453	
+Evaluate: [83/94]	Batch Accuracy 0.9375	
+Evaluate: [84/94]	Batch Accuracy 0.9297	
+Evaluate: [85/94]	Batch Accuracy 0.9844	
+Evaluate: [86/94]	Batch Accuracy 0.9766	
+Evaluate: [87/94]	Batch Accuracy 0.9688	
+Evaluate: [88/94]	Batch Accuracy 0.8516	
+Evaluate: [89/94]	Batch Accuracy 0.9141	
+Evaluate: [90/94]	Batch Accuracy 0.9844	
+Evaluate: [91/94]	Batch Accuracy 0.8438	
+Evaluate: [92/94]	Batch Accuracy 0.9766	
+Evaluate: [93/94]	Batch Accuracy 0.8646	
+* Validation Accuracy: 0.8969
+Epoch: [1][0/375]	Batch Time 0.005 	Batch Loss 0.3152	Train Accuracy 0.9062	
+Epoch: [1][10/375]	Batch Time 0.003 	Batch Loss 0.4526	Train Accuracy 0.8750	
+Epoch: [1][20/375]	Batch Time 0.003 	Batch Loss 0.3225	Train Accuracy 0.9297	
+Epoch: [1][30/375]	Batch Time 0.004 	Batch Loss 0.1526	Train Accuracy 0.9766	
+Epoch: [1][40/375]	Batch Time 0.003 	Batch Loss 0.4252	Train Accuracy 0.8906	
+Epoch: [1][50/375]	Batch Time 0.003 	Batch Loss 0.2893	Train Accuracy 0.9219	
+Epoch: [1][60/375]	Batch Time 0.003 	Batch Loss 0.2459	Train Accuracy 0.9219	
+Epoch: [1][70/375]	Batch Time 0.003 	Batch Loss 0.2121	Train Accuracy 0.9453	
+Epoch: [1][80/375]	Batch Time 0.003 	Batch Loss 0.2795	Train Accuracy 0.9141	
+Epoch: [1][90/375]	Batch Time 0.003 	Batch Loss 0.5784	Train Accuracy 0.8281	
+Epoch: [1][100/375]	Batch Time 0.003 	Batch Loss 0.2296	Train Accuracy 0.9375	
+Epoch: [1][110/375]	Batch Time 0.003 	Batch Loss 0.4024	Train Accuracy 0.8516	
+Epoch: [1][120/375]	Batch Time 0.003 	Batch Loss 0.2340	Train Accuracy 0.9453	
+Epoch: [1][130/375]	Batch Time 0.003 	Batch Loss 0.3672	Train Accuracy 0.8906	
+Epoch: [1][140/375]	Batch Time 0.003 	Batch Loss 0.2319	Train Accuracy 0.9219	
+Epoch: [1][150/375]	Batch Time 0.003 	Batch Loss 0.2967	Train Accuracy 0.9219	
+Epoch: [1][160/375]	Batch Time 0.003 	Batch Loss 0.2571	Train Accuracy 0.9219	
+Epoch: [1][170/375]	Batch Time 0.003 	Batch Loss 0.0881	Train Accuracy 1.0000	
+Epoch: [1][180/375]	Batch Time 0.003 	Batch Loss 0.3250	Train Accuracy 0.9141	
+Epoch: [1][190/375]	Batch Time 0.004 	Batch Loss 0.2149	Train Accuracy 0.9453	
+Epoch: [1][200/375]	Batch Time 0.011 	Batch Loss 0.2123	Train Accuracy 0.9375	
+Epoch: [1][210/375]	Batch Time 0.003 	Batch Loss 0.2880	Train Accuracy 0.9375	
+Epoch: [1][220/375]	Batch Time 0.003 	Batch Loss 0.2430	Train Accuracy 0.9297	
+Epoch: [1][230/375]	Batch Time 0.005 	Batch Loss 0.2583	Train Accuracy 0.9141	
+Epoch: [1][240/375]	Batch Time 0.003 	Batch Loss 0.2843	Train Accuracy 0.9141	
+Epoch: [1][250/375]	Batch Time 0.003 	Batch Loss 0.3115	Train Accuracy 0.8750	
+Epoch: [1][260/375]	Batch Time 0.003 	Batch Loss 0.3304	Train Accuracy 0.8906	
+Epoch: [1][270/375]	Batch Time 0.003 	Batch Loss 0.3334	Train Accuracy 0.8906	
+Epoch: [1][280/375]	Batch Time 0.003 	Batch Loss 0.2341	Train Accuracy 0.9141	
+Epoch: [1][290/375]	Batch Time 0.003 	Batch Loss 0.3170	Train Accuracy 0.8906	
+Epoch: [1][300/375]	Batch Time 0.003 	Batch Loss 0.2408	Train Accuracy 0.9297	
+Epoch: [1][310/375]	Batch Time 0.003 	Batch Loss 0.2763	Train Accuracy 0.9453	
+Epoch: [1][320/375]	Batch Time 0.003 	Batch Loss 0.3084	Train Accuracy 0.9062	
+Epoch: [1][330/375]	Batch Time 0.003 	Batch Loss 0.3452	Train Accuracy 0.8984	
+Epoch: [1][340/375]	Batch Time 0.005 	Batch Loss 0.2226	Train Accuracy 0.9297	
+Epoch: [1][350/375]	Batch Time 0.003 	Batch Loss 0.3701	Train Accuracy 0.8906	
+Epoch: [1][360/375]	Batch Time 0.003 	Batch Loss 0.2867	Train Accuracy 0.9062	
+Epoch: [1][370/375]	Batch Time 0.003 	Batch Loss 0.3260	Train Accuracy 0.8828	
+* Average Accuracy of Epoch 1 is: 0.9133
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9609	
+Evaluate: [2/94]	Batch Accuracy 0.8828	
+Evaluate: [3/94]	Batch Accuracy 0.9609	
+Evaluate: [4/94]	Batch Accuracy 0.9219	
+Evaluate: [5/94]	Batch Accuracy 0.9453	
+Evaluate: [6/94]	Batch Accuracy 0.9375	
+Evaluate: [7/94]	Batch Accuracy 0.8359	
+Evaluate: [8/94]	Batch Accuracy 0.9062	
+Evaluate: [9/94]	Batch Accuracy 0.8984	
+Evaluate: [10/94]	Batch Accuracy 0.9375	
+Evaluate: [11/94]	Batch Accuracy 0.8750	
+Evaluate: [12/94]	Batch Accuracy 0.8516	
+Evaluate: [13/94]	Batch Accuracy 0.9375	
+Evaluate: [14/94]	Batch Accuracy 0.8984	
+Evaluate: [15/94]	Batch Accuracy 0.9141	
+Evaluate: [16/94]	Batch Accuracy 0.8828	
+Evaluate: [17/94]	Batch Accuracy 0.8984	
+Evaluate: [18/94]	Batch Accuracy 0.8203	
+Evaluate: [19/94]	Batch Accuracy 0.9219	
+Evaluate: [20/94]	Batch Accuracy 0.8984	
+Evaluate: [21/94]	Batch Accuracy 0.9141	
+Evaluate: [22/94]	Batch Accuracy 0.9219	
+Evaluate: [23/94]	Batch Accuracy 0.9375	
+Evaluate: [24/94]	Batch Accuracy 0.9141	
+Evaluate: [25/94]	Batch Accuracy 0.8906	
+Evaluate: [26/94]	Batch Accuracy 0.9375	
+Evaluate: [27/94]	Batch Accuracy 0.9375	
+Evaluate: [28/94]	Batch Accuracy 0.9531	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9141	
+Evaluate: [31/94]	Batch Accuracy 0.9062	
+Evaluate: [32/94]	Batch Accuracy 0.8594	
+Evaluate: [33/94]	Batch Accuracy 0.9062	
+Evaluate: [34/94]	Batch Accuracy 0.9297	
+Evaluate: [35/94]	Batch Accuracy 0.9453	
+Evaluate: [36/94]	Batch Accuracy 0.8984	
+Evaluate: [37/94]	Batch Accuracy 0.8906	
+Evaluate: [38/94]	Batch Accuracy 0.8047	
+Evaluate: [39/94]	Batch Accuracy 0.8984	
+Evaluate: [40/94]	Batch Accuracy 0.9453	
+Evaluate: [41/94]	Batch Accuracy 0.9375	
+Evaluate: [42/94]	Batch Accuracy 0.9688	
+Evaluate: [43/94]	Batch Accuracy 0.8906	
+Evaluate: [44/94]	Batch Accuracy 0.8828	
+Evaluate: [45/94]	Batch Accuracy 0.9062	
+Evaluate: [46/94]	Batch Accuracy 0.8672	
+Evaluate: [47/94]	Batch Accuracy 0.9062	
+Evaluate: [48/94]	Batch Accuracy 0.9297	
+Evaluate: [49/94]	Batch Accuracy 0.9453	
+Evaluate: [50/94]	Batch Accuracy 0.9219	
+Evaluate: [51/94]	Batch Accuracy 0.9219	
+Evaluate: [52/94]	Batch Accuracy 0.9688	
+Evaluate: [53/94]	Batch Accuracy 0.8750	
+Evaluate: [54/94]	Batch Accuracy 0.8906	
+Evaluate: [55/94]	Batch Accuracy 0.9453	
+Evaluate: [56/94]	Batch Accuracy 0.9141	
+Evaluate: [57/94]	Batch Accuracy 0.9062	
+Evaluate: [58/94]	Batch Accuracy 0.9297	
+Evaluate: [59/94]	Batch Accuracy 0.9375	
+Evaluate: [60/94]	Batch Accuracy 0.9375	
+Evaluate: [61/94]	Batch Accuracy 0.9453	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9375	
+Evaluate: [64/94]	Batch Accuracy 0.9062	
+Evaluate: [65/94]	Batch Accuracy 0.9453	
+Evaluate: [66/94]	Batch Accuracy 0.9062	
+Evaluate: [67/94]	Batch Accuracy 0.8828	
+Evaluate: [68/94]	Batch Accuracy 0.9531	
+Evaluate: [69/94]	Batch Accuracy 0.9375	
+Evaluate: [70/94]	Batch Accuracy 0.9375	
+Evaluate: [71/94]	Batch Accuracy 0.9766	
+Evaluate: [72/94]	Batch Accuracy 0.8906	
+Evaluate: [73/94]	Batch Accuracy 0.9531	
+Evaluate: [74/94]	Batch Accuracy 0.8828	
+Evaluate: [75/94]	Batch Accuracy 0.8984	
+Evaluate: [76/94]	Batch Accuracy 0.9375	
+Evaluate: [77/94]	Batch Accuracy 0.9297	
+Evaluate: [78/94]	Batch Accuracy 0.9375	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9766	
+Evaluate: [81/94]	Batch Accuracy 0.9375	
+Evaluate: [82/94]	Batch Accuracy 0.9688	
+Evaluate: [83/94]	Batch Accuracy 0.9531	
+Evaluate: [84/94]	Batch Accuracy 0.9297	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9844	
+Evaluate: [88/94]	Batch Accuracy 0.8984	
+Evaluate: [89/94]	Batch Accuracy 0.9219	
+Evaluate: [90/94]	Batch Accuracy 1.0000	
+Evaluate: [91/94]	Batch Accuracy 0.8906	
+Evaluate: [92/94]	Batch Accuracy 0.9844	
+Evaluate: [93/94]	Batch Accuracy 0.9167	
+* Validation Accuracy: 0.9228
+Epoch: [2][0/375]	Batch Time 0.004 	Batch Loss 0.2069	Train Accuracy 0.9609	
+Epoch: [2][10/375]	Batch Time 0.003 	Batch Loss 0.3836	Train Accuracy 0.8828	
+Epoch: [2][20/375]	Batch Time 0.003 	Batch Loss 0.2533	Train Accuracy 0.9297	
+Epoch: [2][30/375]	Batch Time 0.003 	Batch Loss 0.0879	Train Accuracy 0.9922	
+Epoch: [2][40/375]	Batch Time 0.005 	Batch Loss 0.3455	Train Accuracy 0.9062	
+Epoch: [2][50/375]	Batch Time 0.003 	Batch Loss 0.2302	Train Accuracy 0.9453	
+Epoch: [2][60/375]	Batch Time 0.003 	Batch Loss 0.1980	Train Accuracy 0.9219	
+Epoch: [2][70/375]	Batch Time 0.003 	Batch Loss 0.1680	Train Accuracy 0.9688	
+Epoch: [2][80/375]	Batch Time 0.005 	Batch Loss 0.2196	Train Accuracy 0.9297	
+Epoch: [2][90/375]	Batch Time 0.003 	Batch Loss 0.4680	Train Accuracy 0.8281	
+Epoch: [2][100/375]	Batch Time 0.003 	Batch Loss 0.1740	Train Accuracy 0.9375	
+Epoch: [2][110/375]	Batch Time 0.003 	Batch Loss 0.3018	Train Accuracy 0.8906	
+Epoch: [2][120/375]	Batch Time 0.003 	Batch Loss 0.1928	Train Accuracy 0.9453	
+Epoch: [2][130/375]	Batch Time 0.004 	Batch Loss 0.2837	Train Accuracy 0.9141	
+Epoch: [2][140/375]	Batch Time 0.003 	Batch Loss 0.1964	Train Accuracy 0.9375	
+Epoch: [2][150/375]	Batch Time 0.003 	Batch Loss 0.2280	Train Accuracy 0.9531	
+Epoch: [2][160/375]	Batch Time 0.003 	Batch Loss 0.2061	Train Accuracy 0.9609	
+Epoch: [2][170/375]	Batch Time 0.003 	Batch Loss 0.0653	Train Accuracy 1.0000	
+Epoch: [2][180/375]	Batch Time 0.005 	Batch Loss 0.2644	Train Accuracy 0.9297	
+Epoch: [2][190/375]	Batch Time 0.004 	Batch Loss 0.1612	Train Accuracy 0.9609	
+Epoch: [2][200/375]	Batch Time 0.003 	Batch Loss 0.1800	Train Accuracy 0.9453	
+Epoch: [2][210/375]	Batch Time 0.003 	Batch Loss 0.2308	Train Accuracy 0.9531	
+Epoch: [2][220/375]	Batch Time 0.008 	Batch Loss 0.1878	Train Accuracy 0.9375	
+Epoch: [2][230/375]	Batch Time 0.003 	Batch Loss 0.2037	Train Accuracy 0.9375	
+Epoch: [2][240/375]	Batch Time 0.003 	Batch Loss 0.2312	Train Accuracy 0.9297	
+Epoch: [2][250/375]	Batch Time 0.004 	Batch Loss 0.2538	Train Accuracy 0.9141	
+Epoch: [2][260/375]	Batch Time 0.003 	Batch Loss 0.2811	Train Accuracy 0.9141	
+Epoch: [2][270/375]	Batch Time 0.003 	Batch Loss 0.2704	Train Accuracy 0.9141	
+Epoch: [2][280/375]	Batch Time 0.003 	Batch Loss 0.1894	Train Accuracy 0.9453	
+Epoch: [2][290/375]	Batch Time 0.004 	Batch Loss 0.2583	Train Accuracy 0.9062	
+Epoch: [2][300/375]	Batch Time 0.003 	Batch Loss 0.2016	Train Accuracy 0.9453	
+Epoch: [2][310/375]	Batch Time 0.003 	Batch Loss 0.2119	Train Accuracy 0.9609	
+Epoch: [2][320/375]	Batch Time 0.003 	Batch Loss 0.2743	Train Accuracy 0.9297	
+Epoch: [2][330/375]	Batch Time 0.003 	Batch Loss 0.2795	Train Accuracy 0.9219	
+Epoch: [2][340/375]	Batch Time 0.003 	Batch Loss 0.1956	Train Accuracy 0.9375	
+Epoch: [2][350/375]	Batch Time 0.003 	Batch Loss 0.3241	Train Accuracy 0.8984	
+Epoch: [2][360/375]	Batch Time 0.003 	Batch Loss 0.2419	Train Accuracy 0.9219	
+Epoch: [2][370/375]	Batch Time 0.003 	Batch Loss 0.2701	Train Accuracy 0.8984	
+* Average Accuracy of Epoch 2 is: 0.9291
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9609	
+Evaluate: [2/94]	Batch Accuracy 0.8750	
+Evaluate: [3/94]	Batch Accuracy 0.9688	
+Evaluate: [4/94]	Batch Accuracy 0.9375	
+Evaluate: [5/94]	Batch Accuracy 0.9531	
+Evaluate: [6/94]	Batch Accuracy 0.9375	
+Evaluate: [7/94]	Batch Accuracy 0.8359	
+Evaluate: [8/94]	Batch Accuracy 0.9297	
+Evaluate: [9/94]	Batch Accuracy 0.9141	
+Evaluate: [10/94]	Batch Accuracy 0.9531	
+Evaluate: [11/94]	Batch Accuracy 0.8672	
+Evaluate: [12/94]	Batch Accuracy 0.8750	
+Evaluate: [13/94]	Batch Accuracy 0.9453	
+Evaluate: [14/94]	Batch Accuracy 0.9062	
+Evaluate: [15/94]	Batch Accuracy 0.9219	
+Evaluate: [16/94]	Batch Accuracy 0.9453	
+Evaluate: [17/94]	Batch Accuracy 0.9219	
+Evaluate: [18/94]	Batch Accuracy 0.8359	
+Evaluate: [19/94]	Batch Accuracy 0.9531	
+Evaluate: [20/94]	Batch Accuracy 0.9141	
+Evaluate: [21/94]	Batch Accuracy 0.9297	
+Evaluate: [22/94]	Batch Accuracy 0.9297	
+Evaluate: [23/94]	Batch Accuracy 0.9609	
+Evaluate: [24/94]	Batch Accuracy 0.9375	
+Evaluate: [25/94]	Batch Accuracy 0.9297	
+Evaluate: [26/94]	Batch Accuracy 0.9531	
+Evaluate: [27/94]	Batch Accuracy 0.9375	
+Evaluate: [28/94]	Batch Accuracy 0.9609	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9609	
+Evaluate: [31/94]	Batch Accuracy 0.9141	
+Evaluate: [32/94]	Batch Accuracy 0.9141	
+Evaluate: [33/94]	Batch Accuracy 0.9375	
+Evaluate: [34/94]	Batch Accuracy 0.9375	
+Evaluate: [35/94]	Batch Accuracy 0.9453	
+Evaluate: [36/94]	Batch Accuracy 0.9219	
+Evaluate: [37/94]	Batch Accuracy 0.9062	
+Evaluate: [38/94]	Batch Accuracy 0.8359	
+Evaluate: [39/94]	Batch Accuracy 0.9062	
+Evaluate: [40/94]	Batch Accuracy 0.9531	
+Evaluate: [41/94]	Batch Accuracy 0.9766	
+Evaluate: [42/94]	Batch Accuracy 0.9688	
+Evaluate: [43/94]	Batch Accuracy 0.9141	
+Evaluate: [44/94]	Batch Accuracy 0.8984	
+Evaluate: [45/94]	Batch Accuracy 0.9062	
+Evaluate: [46/94]	Batch Accuracy 0.8906	
+Evaluate: [47/94]	Batch Accuracy 0.9219	
+Evaluate: [48/94]	Batch Accuracy 0.9219	
+Evaluate: [49/94]	Batch Accuracy 0.9609	
+Evaluate: [50/94]	Batch Accuracy 0.9375	
+Evaluate: [51/94]	Batch Accuracy 0.9297	
+Evaluate: [52/94]	Batch Accuracy 0.9844	
+Evaluate: [53/94]	Batch Accuracy 0.8984	
+Evaluate: [54/94]	Batch Accuracy 0.9297	
+Evaluate: [55/94]	Batch Accuracy 0.9453	
+Evaluate: [56/94]	Batch Accuracy 0.9219	
+Evaluate: [57/94]	Batch Accuracy 0.9297	
+Evaluate: [58/94]	Batch Accuracy 0.9375	
+Evaluate: [59/94]	Batch Accuracy 0.9531	
+Evaluate: [60/94]	Batch Accuracy 0.9375	
+Evaluate: [61/94]	Batch Accuracy 0.9375	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9531	
+Evaluate: [64/94]	Batch Accuracy 0.9141	
+Evaluate: [65/94]	Batch Accuracy 0.9688	
+Evaluate: [66/94]	Batch Accuracy 0.9531	
+Evaluate: [67/94]	Batch Accuracy 0.8984	
+Evaluate: [68/94]	Batch Accuracy 0.9688	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9453	
+Evaluate: [71/94]	Batch Accuracy 0.9766	
+Evaluate: [72/94]	Batch Accuracy 0.9219	
+Evaluate: [73/94]	Batch Accuracy 0.9688	
+Evaluate: [74/94]	Batch Accuracy 0.9219	
+Evaluate: [75/94]	Batch Accuracy 0.9141	
+Evaluate: [76/94]	Batch Accuracy 0.9297	
+Evaluate: [77/94]	Batch Accuracy 0.9609	
+Evaluate: [78/94]	Batch Accuracy 0.9375	
+Evaluate: [79/94]	Batch Accuracy 1.0000	
+Evaluate: [80/94]	Batch Accuracy 0.9766	
+Evaluate: [81/94]	Batch Accuracy 0.9609	
+Evaluate: [82/94]	Batch Accuracy 0.9688	
+Evaluate: [83/94]	Batch Accuracy 0.9531	
+Evaluate: [84/94]	Batch Accuracy 0.9297	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9844	
+Evaluate: [88/94]	Batch Accuracy 0.9141	
+Evaluate: [89/94]	Batch Accuracy 0.9297	
+Evaluate: [90/94]	Batch Accuracy 0.9922	
+Evaluate: [91/94]	Batch Accuracy 0.8984	
+Evaluate: [92/94]	Batch Accuracy 0.9922	
+Evaluate: [93/94]	Batch Accuracy 0.9688	
+* Validation Accuracy: 0.9365
+Epoch: [3][0/375]	Batch Time 0.004 	Batch Loss 0.1604	Train Accuracy 0.9609	
+Epoch: [3][10/375]	Batch Time 0.003 	Batch Loss 0.3251	Train Accuracy 0.8984	
+Epoch: [3][20/375]	Batch Time 0.003 	Batch Loss 0.2173	Train Accuracy 0.9531	
+Epoch: [3][30/375]	Batch Time 0.003 	Batch Loss 0.0615	Train Accuracy 0.9922	
+Epoch: [3][40/375]	Batch Time 0.004 	Batch Loss 0.2871	Train Accuracy 0.9219	
+Epoch: [3][50/375]	Batch Time 0.003 	Batch Loss 0.1950	Train Accuracy 0.9453	
+Epoch: [3][60/375]	Batch Time 0.003 	Batch Loss 0.1672	Train Accuracy 0.9375	
+Epoch: [3][70/375]	Batch Time 0.003 	Batch Loss 0.1394	Train Accuracy 0.9688	
+Epoch: [3][80/375]	Batch Time 0.003 	Batch Loss 0.1834	Train Accuracy 0.9453	
+Epoch: [3][90/375]	Batch Time 0.004 	Batch Loss 0.3839	Train Accuracy 0.8750	
+Epoch: [3][100/375]	Batch Time 0.003 	Batch Loss 0.1443	Train Accuracy 0.9453	
+Epoch: [3][110/375]	Batch Time 0.003 	Batch Loss 0.2479	Train Accuracy 0.9062	
+Epoch: [3][120/375]	Batch Time 0.003 	Batch Loss 0.1665	Train Accuracy 0.9531	
+Epoch: [3][130/375]	Batch Time 0.003 	Batch Loss 0.2231	Train Accuracy 0.9219	
+Epoch: [3][140/375]	Batch Time 0.004 	Batch Loss 0.1806	Train Accuracy 0.9375	
+Epoch: [3][150/375]	Batch Time 0.003 	Batch Loss 0.1896	Train Accuracy 0.9609	
+Epoch: [3][160/375]	Batch Time 0.004 	Batch Loss 0.1754	Train Accuracy 0.9609	
+Epoch: [3][170/375]	Batch Time 0.003 	Batch Loss 0.0500	Train Accuracy 1.0000	
+Epoch: [3][180/375]	Batch Time 0.003 	Batch Loss 0.2177	Train Accuracy 0.9375	
+Epoch: [3][190/375]	Batch Time 0.004 	Batch Loss 0.1259	Train Accuracy 0.9688	
+Epoch: [3][200/375]	Batch Time 0.003 	Batch Loss 0.1571	Train Accuracy 0.9453	
+Epoch: [3][210/375]	Batch Time 0.003 	Batch Loss 0.1911	Train Accuracy 0.9609	
+Epoch: [3][220/375]	Batch Time 0.003 	Batch Loss 0.1503	Train Accuracy 0.9375	
+Epoch: [3][230/375]	Batch Time 0.003 	Batch Loss 0.1655	Train Accuracy 0.9375	
+Epoch: [3][240/375]	Batch Time 0.003 	Batch Loss 0.1843	Train Accuracy 0.9375	
+Epoch: [3][250/375]	Batch Time 0.003 	Batch Loss 0.2122	Train Accuracy 0.9375	
+Epoch: [3][260/375]	Batch Time 0.004 	Batch Loss 0.2328	Train Accuracy 0.9531	
+Epoch: [3][270/375]	Batch Time 0.003 	Batch Loss 0.2237	Train Accuracy 0.9375	
+Epoch: [3][280/375]	Batch Time 0.003 	Batch Loss 0.1586	Train Accuracy 0.9531	
+Epoch: [3][290/375]	Batch Time 0.003 	Batch Loss 0.2146	Train Accuracy 0.9062	
+Epoch: [3][300/375]	Batch Time 0.003 	Batch Loss 0.1718	Train Accuracy 0.9688	
+Epoch: [3][310/375]	Batch Time 0.003 	Batch Loss 0.1665	Train Accuracy 0.9609	
+Epoch: [3][320/375]	Batch Time 0.003 	Batch Loss 0.2477	Train Accuracy 0.9453	
+Epoch: [3][330/375]	Batch Time 0.003 	Batch Loss 0.2339	Train Accuracy 0.9531	
+Epoch: [3][340/375]	Batch Time 0.003 	Batch Loss 0.1707	Train Accuracy 0.9375	
+Epoch: [3][350/375]	Batch Time 0.003 	Batch Loss 0.2866	Train Accuracy 0.9219	
+Epoch: [3][360/375]	Batch Time 0.003 	Batch Loss 0.2045	Train Accuracy 0.9375	
+Epoch: [3][370/375]	Batch Time 0.003 	Batch Loss 0.2264	Train Accuracy 0.9062	
+* Average Accuracy of Epoch 3 is: 0.9407
+Evaluate: [0/94]	Batch Accuracy 0.9531	
+Evaluate: [1/94]	Batch Accuracy 0.9688	
+Evaluate: [2/94]	Batch Accuracy 0.8906	
+Evaluate: [3/94]	Batch Accuracy 0.9766	
+Evaluate: [4/94]	Batch Accuracy 0.9453	
+Evaluate: [5/94]	Batch Accuracy 0.9766	
+Evaluate: [6/94]	Batch Accuracy 0.9609	
+Evaluate: [7/94]	Batch Accuracy 0.8359	
+Evaluate: [8/94]	Batch Accuracy 0.9531	
+Evaluate: [9/94]	Batch Accuracy 0.9219	
+Evaluate: [10/94]	Batch Accuracy 0.9688	
+Evaluate: [11/94]	Batch Accuracy 0.8828	
+Evaluate: [12/94]	Batch Accuracy 0.8750	
+Evaluate: [13/94]	Batch Accuracy 0.9531	
+Evaluate: [14/94]	Batch Accuracy 0.9062	
+Evaluate: [15/94]	Batch Accuracy 0.9375	
+Evaluate: [16/94]	Batch Accuracy 0.9453	
+Evaluate: [17/94]	Batch Accuracy 0.9375	
+Evaluate: [18/94]	Batch Accuracy 0.8750	
+Evaluate: [19/94]	Batch Accuracy 0.9609	
+Evaluate: [20/94]	Batch Accuracy 0.9219	
+Evaluate: [21/94]	Batch Accuracy 0.9375	
+Evaluate: [22/94]	Batch Accuracy 0.9609	
+Evaluate: [23/94]	Batch Accuracy 0.9609	
+Evaluate: [24/94]	Batch Accuracy 0.9531	
+Evaluate: [25/94]	Batch Accuracy 0.9453	
+Evaluate: [26/94]	Batch Accuracy 0.9688	
+Evaluate: [27/94]	Batch Accuracy 0.9453	
+Evaluate: [28/94]	Batch Accuracy 0.9609	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9688	
+Evaluate: [31/94]	Batch Accuracy 0.9297	
+Evaluate: [32/94]	Batch Accuracy 0.9219	
+Evaluate: [33/94]	Batch Accuracy 0.9453	
+Evaluate: [34/94]	Batch Accuracy 0.9375	
+Evaluate: [35/94]	Batch Accuracy 0.9453	
+Evaluate: [36/94]	Batch Accuracy 0.9297	
+Evaluate: [37/94]	Batch Accuracy 0.9219	
+Evaluate: [38/94]	Batch Accuracy 0.8516	
+Evaluate: [39/94]	Batch Accuracy 0.9141	
+Evaluate: [40/94]	Batch Accuracy 0.9766	
+Evaluate: [41/94]	Batch Accuracy 0.9766	
+Evaluate: [42/94]	Batch Accuracy 0.9609	
+Evaluate: [43/94]	Batch Accuracy 0.9297	
+Evaluate: [44/94]	Batch Accuracy 0.9141	
+Evaluate: [45/94]	Batch Accuracy 0.9219	
+Evaluate: [46/94]	Batch Accuracy 0.9141	
+Evaluate: [47/94]	Batch Accuracy 0.9609	
+Evaluate: [48/94]	Batch Accuracy 0.9297	
+Evaluate: [49/94]	Batch Accuracy 0.9688	
+Evaluate: [50/94]	Batch Accuracy 0.9453	
+Evaluate: [51/94]	Batch Accuracy 0.9219	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9062	
+Evaluate: [54/94]	Batch Accuracy 0.9375	
+Evaluate: [55/94]	Batch Accuracy 0.9609	
+Evaluate: [56/94]	Batch Accuracy 0.9219	
+Evaluate: [57/94]	Batch Accuracy 0.9531	
+Evaluate: [58/94]	Batch Accuracy 0.9453	
+Evaluate: [59/94]	Batch Accuracy 0.9531	
+Evaluate: [60/94]	Batch Accuracy 0.9453	
+Evaluate: [61/94]	Batch Accuracy 0.9453	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9453	
+Evaluate: [64/94]	Batch Accuracy 0.9219	
+Evaluate: [65/94]	Batch Accuracy 0.9766	
+Evaluate: [66/94]	Batch Accuracy 0.9609	
+Evaluate: [67/94]	Batch Accuracy 0.9141	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9688	
+Evaluate: [71/94]	Batch Accuracy 0.9922	
+Evaluate: [72/94]	Batch Accuracy 0.9531	
+Evaluate: [73/94]	Batch Accuracy 0.9766	
+Evaluate: [74/94]	Batch Accuracy 0.9453	
+Evaluate: [75/94]	Batch Accuracy 0.9141	
+Evaluate: [76/94]	Batch Accuracy 0.9531	
+Evaluate: [77/94]	Batch Accuracy 0.9688	
+Evaluate: [78/94]	Batch Accuracy 0.9453	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9688	
+Evaluate: [81/94]	Batch Accuracy 0.9609	
+Evaluate: [82/94]	Batch Accuracy 0.9922	
+Evaluate: [83/94]	Batch Accuracy 0.9609	
+Evaluate: [84/94]	Batch Accuracy 0.9375	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9297	
+Evaluate: [89/94]	Batch Accuracy 0.9531	
+Evaluate: [90/94]	Batch Accuracy 0.9922	
+Evaluate: [91/94]	Batch Accuracy 0.8984	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9792	
+* Validation Accuracy: 0.9464
+Epoch: [4][0/375]	Batch Time 0.004 	Batch Loss 0.1315	Train Accuracy 0.9766	
+Epoch: [4][10/375]	Batch Time 0.003 	Batch Loss 0.2730	Train Accuracy 0.9062	
+Epoch: [4][20/375]	Batch Time 0.003 	Batch Loss 0.1891	Train Accuracy 0.9531	
+Epoch: [4][30/375]	Batch Time 0.005 	Batch Loss 0.0473	Train Accuracy 0.9922	
+Epoch: [4][40/375]	Batch Time 0.003 	Batch Loss 0.2388	Train Accuracy 0.9297	
+Epoch: [4][50/375]	Batch Time 0.003 	Batch Loss 0.1711	Train Accuracy 0.9531	
+Epoch: [4][60/375]	Batch Time 0.003 	Batch Loss 0.1437	Train Accuracy 0.9531	
+Epoch: [4][70/375]	Batch Time 0.003 	Batch Loss 0.1170	Train Accuracy 0.9688	
+Epoch: [4][80/375]	Batch Time 0.003 	Batch Loss 0.1585	Train Accuracy 0.9609	
+Epoch: [4][90/375]	Batch Time 0.004 	Batch Loss 0.3169	Train Accuracy 0.8906	
+Epoch: [4][100/375]	Batch Time 0.003 	Batch Loss 0.1244	Train Accuracy 0.9609	
+Epoch: [4][110/375]	Batch Time 0.003 	Batch Loss 0.2080	Train Accuracy 0.9297	
+Epoch: [4][120/375]	Batch Time 0.003 	Batch Loss 0.1463	Train Accuracy 0.9688	
+Epoch: [4][130/375]	Batch Time 0.003 	Batch Loss 0.1816	Train Accuracy 0.9297	
+Epoch: [4][140/375]	Batch Time 0.003 	Batch Loss 0.1661	Train Accuracy 0.9453	
+Epoch: [4][150/375]	Batch Time 0.003 	Batch Loss 0.1638	Train Accuracy 0.9688	
+Epoch: [4][160/375]	Batch Time 0.003 	Batch Loss 0.1525	Train Accuracy 0.9609	
+Epoch: [4][170/375]	Batch Time 0.003 	Batch Loss 0.0394	Train Accuracy 1.0000	
+Epoch: [4][180/375]	Batch Time 0.003 	Batch Loss 0.1788	Train Accuracy 0.9453	
+Epoch: [4][190/375]	Batch Time 0.003 	Batch Loss 0.0997	Train Accuracy 0.9766	
+Epoch: [4][200/375]	Batch Time 0.003 	Batch Loss 0.1388	Train Accuracy 0.9531	
+Epoch: [4][210/375]	Batch Time 0.003 	Batch Loss 0.1612	Train Accuracy 0.9688	
+Epoch: [4][220/375]	Batch Time 0.004 	Batch Loss 0.1233	Train Accuracy 0.9531	
+Epoch: [4][230/375]	Batch Time 0.003 	Batch Loss 0.1378	Train Accuracy 0.9531	
+Epoch: [4][240/375]	Batch Time 0.003 	Batch Loss 0.1481	Train Accuracy 0.9531	
+Epoch: [4][250/375]	Batch Time 0.003 	Batch Loss 0.1812	Train Accuracy 0.9375	
+Epoch: [4][260/375]	Batch Time 0.004 	Batch Loss 0.1948	Train Accuracy 0.9609	
+Epoch: [4][270/375]	Batch Time 0.003 	Batch Loss 0.1923	Train Accuracy 0.9453	
+Epoch: [4][280/375]	Batch Time 0.003 	Batch Loss 0.1364	Train Accuracy 0.9688	
+Epoch: [4][290/375]	Batch Time 0.003 	Batch Loss 0.1820	Train Accuracy 0.9219	
+Epoch: [4][300/375]	Batch Time 0.003 	Batch Loss 0.1482	Train Accuracy 0.9766	
+Epoch: [4][310/375]	Batch Time 0.003 	Batch Loss 0.1344	Train Accuracy 0.9609	
+Epoch: [4][320/375]	Batch Time 0.003 	Batch Loss 0.2262	Train Accuracy 0.9531	
+Epoch: [4][330/375]	Batch Time 0.003 	Batch Loss 0.2003	Train Accuracy 0.9531	
+Epoch: [4][340/375]	Batch Time 0.003 	Batch Loss 0.1500	Train Accuracy 0.9609	
+Epoch: [4][350/375]	Batch Time 0.003 	Batch Loss 0.2561	Train Accuracy 0.9297	
+Epoch: [4][360/375]	Batch Time 0.003 	Batch Loss 0.1751	Train Accuracy 0.9375	
+Epoch: [4][370/375]	Batch Time 0.003 	Batch Loss 0.1949	Train Accuracy 0.9219	
+* Average Accuracy of Epoch 4 is: 0.9496
+Evaluate: [0/94]	Batch Accuracy 0.9531	
+Evaluate: [1/94]	Batch Accuracy 0.9844	
+Evaluate: [2/94]	Batch Accuracy 0.8984	
+Evaluate: [3/94]	Batch Accuracy 0.9766	
+Evaluate: [4/94]	Batch Accuracy 0.9531	
+Evaluate: [5/94]	Batch Accuracy 0.9766	
+Evaluate: [6/94]	Batch Accuracy 0.9688	
+Evaluate: [7/94]	Batch Accuracy 0.8438	
+Evaluate: [8/94]	Batch Accuracy 0.9453	
+Evaluate: [9/94]	Batch Accuracy 0.9297	
+Evaluate: [10/94]	Batch Accuracy 0.9688	
+Evaluate: [11/94]	Batch Accuracy 0.8906	
+Evaluate: [12/94]	Batch Accuracy 0.8906	
+Evaluate: [13/94]	Batch Accuracy 0.9609	
+Evaluate: [14/94]	Batch Accuracy 0.9141	
+Evaluate: [15/94]	Batch Accuracy 0.9375	
+Evaluate: [16/94]	Batch Accuracy 0.9609	
+Evaluate: [17/94]	Batch Accuracy 0.9453	
+Evaluate: [18/94]	Batch Accuracy 0.8906	
+Evaluate: [19/94]	Batch Accuracy 0.9609	
+Evaluate: [20/94]	Batch Accuracy 0.9375	
+Evaluate: [21/94]	Batch Accuracy 0.9531	
+Evaluate: [22/94]	Batch Accuracy 0.9688	
+Evaluate: [23/94]	Batch Accuracy 0.9688	
+Evaluate: [24/94]	Batch Accuracy 0.9453	
+Evaluate: [25/94]	Batch Accuracy 0.9531	
+Evaluate: [26/94]	Batch Accuracy 0.9688	
+Evaluate: [27/94]	Batch Accuracy 0.9531	
+Evaluate: [28/94]	Batch Accuracy 0.9688	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9688	
+Evaluate: [31/94]	Batch Accuracy 0.9375	
+Evaluate: [32/94]	Batch Accuracy 0.9297	
+Evaluate: [33/94]	Batch Accuracy 0.9531	
+Evaluate: [34/94]	Batch Accuracy 0.9453	
+Evaluate: [35/94]	Batch Accuracy 0.9453	
+Evaluate: [36/94]	Batch Accuracy 0.9297	
+Evaluate: [37/94]	Batch Accuracy 0.9297	
+Evaluate: [38/94]	Batch Accuracy 0.8828	
+Evaluate: [39/94]	Batch Accuracy 0.9219	
+Evaluate: [40/94]	Batch Accuracy 0.9766	
+Evaluate: [41/94]	Batch Accuracy 0.9766	
+Evaluate: [42/94]	Batch Accuracy 0.9609	
+Evaluate: [43/94]	Batch Accuracy 0.9375	
+Evaluate: [44/94]	Batch Accuracy 0.9141	
+Evaluate: [45/94]	Batch Accuracy 0.9219	
+Evaluate: [46/94]	Batch Accuracy 0.9219	
+Evaluate: [47/94]	Batch Accuracy 0.9609	
+Evaluate: [48/94]	Batch Accuracy 0.9453	
+Evaluate: [49/94]	Batch Accuracy 0.9688	
+Evaluate: [50/94]	Batch Accuracy 0.9688	
+Evaluate: [51/94]	Batch Accuracy 0.9375	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9297	
+Evaluate: [54/94]	Batch Accuracy 0.9297	
+Evaluate: [55/94]	Batch Accuracy 0.9688	
+Evaluate: [56/94]	Batch Accuracy 0.9219	
+Evaluate: [57/94]	Batch Accuracy 0.9609	
+Evaluate: [58/94]	Batch Accuracy 0.9453	
+Evaluate: [59/94]	Batch Accuracy 0.9531	
+Evaluate: [60/94]	Batch Accuracy 0.9375	
+Evaluate: [61/94]	Batch Accuracy 0.9375	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9609	
+Evaluate: [64/94]	Batch Accuracy 0.9375	
+Evaluate: [65/94]	Batch Accuracy 0.9922	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9141	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9609	
+Evaluate: [70/94]	Batch Accuracy 0.9688	
+Evaluate: [71/94]	Batch Accuracy 0.9922	
+Evaluate: [72/94]	Batch Accuracy 0.9531	
+Evaluate: [73/94]	Batch Accuracy 0.9922	
+Evaluate: [74/94]	Batch Accuracy 0.9453	
+Evaluate: [75/94]	Batch Accuracy 0.9219	
+Evaluate: [76/94]	Batch Accuracy 0.9531	
+Evaluate: [77/94]	Batch Accuracy 0.9688	
+Evaluate: [78/94]	Batch Accuracy 0.9531	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9766	
+Evaluate: [81/94]	Batch Accuracy 0.9609	
+Evaluate: [82/94]	Batch Accuracy 0.9922	
+Evaluate: [83/94]	Batch Accuracy 0.9688	
+Evaluate: [84/94]	Batch Accuracy 0.9453	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9297	
+Evaluate: [89/94]	Batch Accuracy 0.9609	
+Evaluate: [90/94]	Batch Accuracy 0.9922	
+Evaluate: [91/94]	Batch Accuracy 0.9297	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9519
+Epoch: [5][0/375]	Batch Time 0.004 	Batch Loss 0.1131	Train Accuracy 0.9766	
+Epoch: [5][10/375]	Batch Time 0.003 	Batch Loss 0.2329	Train Accuracy 0.9453	
+Epoch: [5][20/375]	Batch Time 0.003 	Batch Loss 0.1671	Train Accuracy 0.9609	
+Epoch: [5][30/375]	Batch Time 0.003 	Batch Loss 0.0395	Train Accuracy 1.0000	
+Epoch: [5][40/375]	Batch Time 0.004 	Batch Loss 0.2019	Train Accuracy 0.9375	
+Epoch: [5][50/375]	Batch Time 0.003 	Batch Loss 0.1523	Train Accuracy 0.9609	
+Epoch: [5][60/375]	Batch Time 0.003 	Batch Loss 0.1248	Train Accuracy 0.9531	
+Epoch: [5][70/375]	Batch Time 0.003 	Batch Loss 0.1006	Train Accuracy 0.9766	
+Epoch: [5][80/375]	Batch Time 0.003 	Batch Loss 0.1408	Train Accuracy 0.9766	
+Epoch: [5][90/375]	Batch Time 0.003 	Batch Loss 0.2677	Train Accuracy 0.8984	
+Epoch: [5][100/375]	Batch Time 0.004 	Batch Loss 0.1099	Train Accuracy 0.9609	
+Epoch: [5][110/375]	Batch Time 0.003 	Batch Loss 0.1727	Train Accuracy 0.9531	
+Epoch: [5][120/375]	Batch Time 0.003 	Batch Loss 0.1314	Train Accuracy 0.9766	
+Epoch: [5][130/375]	Batch Time 0.004 	Batch Loss 0.1531	Train Accuracy 0.9453	
+Epoch: [5][140/375]	Batch Time 0.003 	Batch Loss 0.1514	Train Accuracy 0.9453	
+Epoch: [5][150/375]	Batch Time 0.003 	Batch Loss 0.1434	Train Accuracy 0.9688	
+Epoch: [5][160/375]	Batch Time 0.003 	Batch Loss 0.1351	Train Accuracy 0.9766	
+Epoch: [5][170/375]	Batch Time 0.003 	Batch Loss 0.0318	Train Accuracy 1.0000	
+Epoch: [5][180/375]	Batch Time 0.003 	Batch Loss 0.1479	Train Accuracy 0.9531	
+Epoch: [5][190/375]	Batch Time 0.003 	Batch Loss 0.0800	Train Accuracy 0.9766	
+Epoch: [5][200/375]	Batch Time 0.003 	Batch Loss 0.1240	Train Accuracy 0.9609	
+Epoch: [5][210/375]	Batch Time 0.003 	Batch Loss 0.1383	Train Accuracy 0.9688	
+Epoch: [5][220/375]	Batch Time 0.003 	Batch Loss 0.1040	Train Accuracy 0.9688	
+Epoch: [5][230/375]	Batch Time 0.003 	Batch Loss 0.1180	Train Accuracy 0.9531	
+Epoch: [5][240/375]	Batch Time 0.003 	Batch Loss 0.1229	Train Accuracy 0.9609	
+Epoch: [5][250/375]	Batch Time 0.003 	Batch Loss 0.1587	Train Accuracy 0.9453	
+Epoch: [5][260/375]	Batch Time 0.003 	Batch Loss 0.1680	Train Accuracy 0.9609	
+Epoch: [5][270/375]	Batch Time 0.004 	Batch Loss 0.1687	Train Accuracy 0.9531	
+Epoch: [5][280/375]	Batch Time 0.003 	Batch Loss 0.1211	Train Accuracy 0.9609	
+Epoch: [5][290/375]	Batch Time 0.003 	Batch Loss 0.1568	Train Accuracy 0.9375	
+Epoch: [5][300/375]	Batch Time 0.003 	Batch Loss 0.1298	Train Accuracy 0.9766	
+Epoch: [5][310/375]	Batch Time 0.003 	Batch Loss 0.1118	Train Accuracy 0.9609	
+Epoch: [5][320/375]	Batch Time 0.003 	Batch Loss 0.2084	Train Accuracy 0.9375	
+Epoch: [5][330/375]	Batch Time 0.003 	Batch Loss 0.1745	Train Accuracy 0.9531	
+Epoch: [5][340/375]	Batch Time 0.004 	Batch Loss 0.1327	Train Accuracy 0.9609	
+Epoch: [5][350/375]	Batch Time 0.003 	Batch Loss 0.2289	Train Accuracy 0.9219	
+Epoch: [5][360/375]	Batch Time 0.003 	Batch Loss 0.1522	Train Accuracy 0.9453	
+Epoch: [5][370/375]	Batch Time 0.003 	Batch Loss 0.1715	Train Accuracy 0.9531	
+* Average Accuracy of Epoch 5 is: 0.9564
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9844	
+Evaluate: [2/94]	Batch Accuracy 0.9219	
+Evaluate: [3/94]	Batch Accuracy 0.9766	
+Evaluate: [4/94]	Batch Accuracy 0.9531	
+Evaluate: [5/94]	Batch Accuracy 0.9844	
+Evaluate: [6/94]	Batch Accuracy 0.9766	
+Evaluate: [7/94]	Batch Accuracy 0.8750	
+Evaluate: [8/94]	Batch Accuracy 0.9453	
+Evaluate: [9/94]	Batch Accuracy 0.9219	
+Evaluate: [10/94]	Batch Accuracy 0.9766	
+Evaluate: [11/94]	Batch Accuracy 0.8984	
+Evaluate: [12/94]	Batch Accuracy 0.9219	
+Evaluate: [13/94]	Batch Accuracy 0.9688	
+Evaluate: [14/94]	Batch Accuracy 0.9219	
+Evaluate: [15/94]	Batch Accuracy 0.9531	
+Evaluate: [16/94]	Batch Accuracy 0.9609	
+Evaluate: [17/94]	Batch Accuracy 0.9375	
+Evaluate: [18/94]	Batch Accuracy 0.8906	
+Evaluate: [19/94]	Batch Accuracy 0.9688	
+Evaluate: [20/94]	Batch Accuracy 0.9453	
+Evaluate: [21/94]	Batch Accuracy 0.9609	
+Evaluate: [22/94]	Batch Accuracy 0.9688	
+Evaluate: [23/94]	Batch Accuracy 0.9922	
+Evaluate: [24/94]	Batch Accuracy 0.9453	
+Evaluate: [25/94]	Batch Accuracy 0.9609	
+Evaluate: [26/94]	Batch Accuracy 0.9688	
+Evaluate: [27/94]	Batch Accuracy 0.9609	
+Evaluate: [28/94]	Batch Accuracy 0.9688	
+Evaluate: [29/94]	Batch Accuracy 0.9609	
+Evaluate: [30/94]	Batch Accuracy 0.9688	
+Evaluate: [31/94]	Batch Accuracy 0.9609	
+Evaluate: [32/94]	Batch Accuracy 0.9297	
+Evaluate: [33/94]	Batch Accuracy 0.9531	
+Evaluate: [34/94]	Batch Accuracy 0.9609	
+Evaluate: [35/94]	Batch Accuracy 0.9531	
+Evaluate: [36/94]	Batch Accuracy 0.9375	
+Evaluate: [37/94]	Batch Accuracy 0.9297	
+Evaluate: [38/94]	Batch Accuracy 0.8906	
+Evaluate: [39/94]	Batch Accuracy 0.9141	
+Evaluate: [40/94]	Batch Accuracy 0.9688	
+Evaluate: [41/94]	Batch Accuracy 0.9766	
+Evaluate: [42/94]	Batch Accuracy 0.9688	
+Evaluate: [43/94]	Batch Accuracy 0.9453	
+Evaluate: [44/94]	Batch Accuracy 0.9219	
+Evaluate: [45/94]	Batch Accuracy 0.9297	
+Evaluate: [46/94]	Batch Accuracy 0.9453	
+Evaluate: [47/94]	Batch Accuracy 0.9688	
+Evaluate: [48/94]	Batch Accuracy 0.9609	
+Evaluate: [49/94]	Batch Accuracy 0.9688	
+Evaluate: [50/94]	Batch Accuracy 0.9688	
+Evaluate: [51/94]	Batch Accuracy 0.9375	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9375	
+Evaluate: [54/94]	Batch Accuracy 0.9375	
+Evaluate: [55/94]	Batch Accuracy 0.9688	
+Evaluate: [56/94]	Batch Accuracy 0.9219	
+Evaluate: [57/94]	Batch Accuracy 0.9609	
+Evaluate: [58/94]	Batch Accuracy 0.9609	
+Evaluate: [59/94]	Batch Accuracy 0.9766	
+Evaluate: [60/94]	Batch Accuracy 0.9453	
+Evaluate: [61/94]	Batch Accuracy 0.9375	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9688	
+Evaluate: [64/94]	Batch Accuracy 0.9688	
+Evaluate: [65/94]	Batch Accuracy 0.9922	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9297	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9609	
+Evaluate: [71/94]	Batch Accuracy 0.9922	
+Evaluate: [72/94]	Batch Accuracy 0.9531	
+Evaluate: [73/94]	Batch Accuracy 0.9922	
+Evaluate: [74/94]	Batch Accuracy 0.9531	
+Evaluate: [75/94]	Batch Accuracy 0.9453	
+Evaluate: [76/94]	Batch Accuracy 0.9609	
+Evaluate: [77/94]	Batch Accuracy 0.9688	
+Evaluate: [78/94]	Batch Accuracy 0.9609	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9766	
+Evaluate: [81/94]	Batch Accuracy 0.9609	
+Evaluate: [82/94]	Batch Accuracy 0.9922	
+Evaluate: [83/94]	Batch Accuracy 0.9688	
+Evaluate: [84/94]	Batch Accuracy 0.9609	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9375	
+Evaluate: [89/94]	Batch Accuracy 0.9766	
+Evaluate: [90/94]	Batch Accuracy 0.9922	
+Evaluate: [91/94]	Batch Accuracy 0.9297	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9573
+Epoch: [6][0/375]	Batch Time 0.004 	Batch Loss 0.1002	Train Accuracy 0.9844	
+Epoch: [6][10/375]	Batch Time 0.003 	Batch Loss 0.2034	Train Accuracy 0.9531	
+Epoch: [6][20/375]	Batch Time 0.003 	Batch Loss 0.1501	Train Accuracy 0.9609	
+Epoch: [6][30/375]	Batch Time 0.003 	Batch Loss 0.0349	Train Accuracy 1.0000	
+Epoch: [6][40/375]	Batch Time 0.003 	Batch Loss 0.1746	Train Accuracy 0.9453	
+Epoch: [6][50/375]	Batch Time 0.003 	Batch Loss 0.1366	Train Accuracy 0.9609	
+Epoch: [6][60/375]	Batch Time 0.003 	Batch Loss 0.1104	Train Accuracy 0.9688	
+Epoch: [6][70/375]	Batch Time 0.003 	Batch Loss 0.0877	Train Accuracy 0.9766	
+Epoch: [6][80/375]	Batch Time 0.004 	Batch Loss 0.1272	Train Accuracy 0.9766	
+Epoch: [6][90/375]	Batch Time 0.003 	Batch Loss 0.2321	Train Accuracy 0.9141	
+Epoch: [6][100/375]	Batch Time 0.003 	Batch Loss 0.0984	Train Accuracy 0.9609	
+Epoch: [6][110/375]	Batch Time 0.003 	Batch Loss 0.1427	Train Accuracy 0.9531	
+Epoch: [6][120/375]	Batch Time 0.004 	Batch Loss 0.1204	Train Accuracy 0.9766	
+Epoch: [6][130/375]	Batch Time 0.003 	Batch Loss 0.1335	Train Accuracy 0.9609	
+Epoch: [6][140/375]	Batch Time 0.008 	Batch Loss 0.1371	Train Accuracy 0.9453	
+Epoch: [6][150/375]	Batch Time 0.003 	Batch Loss 0.1268	Train Accuracy 0.9766	
+Epoch: [6][160/375]	Batch Time 0.003 	Batch Loss 0.1219	Train Accuracy 0.9766	
+Epoch: [6][170/375]	Batch Time 0.003 	Batch Loss 0.0263	Train Accuracy 1.0000	
+Epoch: [6][180/375]	Batch Time 0.003 	Batch Loss 0.1243	Train Accuracy 0.9609	
+Epoch: [6][190/375]	Batch Time 0.003 	Batch Loss 0.0649	Train Accuracy 0.9766	
+Epoch: [6][200/375]	Batch Time 0.003 	Batch Loss 0.1113	Train Accuracy 0.9609	
+Epoch: [6][210/375]	Batch Time 0.003 	Batch Loss 0.1210	Train Accuracy 0.9844	
+Epoch: [6][220/375]	Batch Time 0.003 	Batch Loss 0.0898	Train Accuracy 0.9688	
+Epoch: [6][230/375]	Batch Time 0.004 	Batch Loss 0.1028	Train Accuracy 0.9609	
+Epoch: [6][240/375]	Batch Time 0.003 	Batch Loss 0.1051	Train Accuracy 0.9609	
+Epoch: [6][250/375]	Batch Time 0.003 	Batch Loss 0.1416	Train Accuracy 0.9531	
+Epoch: [6][260/375]	Batch Time 0.004 	Batch Loss 0.1491	Train Accuracy 0.9609	
+Epoch: [6][270/375]	Batch Time 0.003 	Batch Loss 0.1481	Train Accuracy 0.9531	
+Epoch: [6][280/375]	Batch Time 0.003 	Batch Loss 0.1102	Train Accuracy 0.9609	
+Epoch: [6][290/375]	Batch Time 0.003 	Batch Loss 0.1366	Train Accuracy 0.9375	
+Epoch: [6][300/375]	Batch Time 0.003 	Batch Loss 0.1154	Train Accuracy 0.9766	
+Epoch: [6][310/375]	Batch Time 0.006 	Batch Loss 0.0957	Train Accuracy 0.9609	
+Epoch: [6][320/375]	Batch Time 0.003 	Batch Loss 0.1929	Train Accuracy 0.9375	
+Epoch: [6][330/375]	Batch Time 0.003 	Batch Loss 0.1539	Train Accuracy 0.9531	
+Epoch: [6][340/375]	Batch Time 0.003 	Batch Loss 0.1188	Train Accuracy 0.9766	
+Epoch: [6][350/375]	Batch Time 0.004 	Batch Loss 0.2039	Train Accuracy 0.9375	
+Epoch: [6][360/375]	Batch Time 0.003 	Batch Loss 0.1341	Train Accuracy 0.9531	
+Epoch: [6][370/375]	Batch Time 0.003 	Batch Loss 0.1528	Train Accuracy 0.9531	
+* Average Accuracy of Epoch 6 is: 0.9611
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9766	
+Evaluate: [2/94]	Batch Accuracy 0.9297	
+Evaluate: [3/94]	Batch Accuracy 0.9844	
+Evaluate: [4/94]	Batch Accuracy 0.9531	
+Evaluate: [5/94]	Batch Accuracy 0.9844	
+Evaluate: [6/94]	Batch Accuracy 0.9844	
+Evaluate: [7/94]	Batch Accuracy 0.8750	
+Evaluate: [8/94]	Batch Accuracy 0.9453	
+Evaluate: [9/94]	Batch Accuracy 0.9219	
+Evaluate: [10/94]	Batch Accuracy 0.9844	
+Evaluate: [11/94]	Batch Accuracy 0.9141	
+Evaluate: [12/94]	Batch Accuracy 0.9219	
+Evaluate: [13/94]	Batch Accuracy 0.9688	
+Evaluate: [14/94]	Batch Accuracy 0.9219	
+Evaluate: [15/94]	Batch Accuracy 0.9531	
+Evaluate: [16/94]	Batch Accuracy 0.9609	
+Evaluate: [17/94]	Batch Accuracy 0.9453	
+Evaluate: [18/94]	Batch Accuracy 0.8984	
+Evaluate: [19/94]	Batch Accuracy 0.9688	
+Evaluate: [20/94]	Batch Accuracy 0.9453	
+Evaluate: [21/94]	Batch Accuracy 0.9531	
+Evaluate: [22/94]	Batch Accuracy 0.9766	
+Evaluate: [23/94]	Batch Accuracy 0.9844	
+Evaluate: [24/94]	Batch Accuracy 0.9531	
+Evaluate: [25/94]	Batch Accuracy 0.9609	
+Evaluate: [26/94]	Batch Accuracy 0.9766	
+Evaluate: [27/94]	Batch Accuracy 0.9609	
+Evaluate: [28/94]	Batch Accuracy 0.9766	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9766	
+Evaluate: [31/94]	Batch Accuracy 0.9609	
+Evaluate: [32/94]	Batch Accuracy 0.9375	
+Evaluate: [33/94]	Batch Accuracy 0.9609	
+Evaluate: [34/94]	Batch Accuracy 0.9609	
+Evaluate: [35/94]	Batch Accuracy 0.9609	
+Evaluate: [36/94]	Batch Accuracy 0.9453	
+Evaluate: [37/94]	Batch Accuracy 0.9453	
+Evaluate: [38/94]	Batch Accuracy 0.8906	
+Evaluate: [39/94]	Batch Accuracy 0.9141	
+Evaluate: [40/94]	Batch Accuracy 0.9688	
+Evaluate: [41/94]	Batch Accuracy 0.9766	
+Evaluate: [42/94]	Batch Accuracy 0.9766	
+Evaluate: [43/94]	Batch Accuracy 0.9609	
+Evaluate: [44/94]	Batch Accuracy 0.9219	
+Evaluate: [45/94]	Batch Accuracy 0.9375	
+Evaluate: [46/94]	Batch Accuracy 0.9453	
+Evaluate: [47/94]	Batch Accuracy 0.9688	
+Evaluate: [48/94]	Batch Accuracy 0.9688	
+Evaluate: [49/94]	Batch Accuracy 0.9766	
+Evaluate: [50/94]	Batch Accuracy 0.9688	
+Evaluate: [51/94]	Batch Accuracy 0.9531	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9375	
+Evaluate: [54/94]	Batch Accuracy 0.9375	
+Evaluate: [55/94]	Batch Accuracy 0.9688	
+Evaluate: [56/94]	Batch Accuracy 0.9219	
+Evaluate: [57/94]	Batch Accuracy 0.9688	
+Evaluate: [58/94]	Batch Accuracy 0.9609	
+Evaluate: [59/94]	Batch Accuracy 0.9766	
+Evaluate: [60/94]	Batch Accuracy 0.9531	
+Evaluate: [61/94]	Batch Accuracy 0.9453	
+Evaluate: [62/94]	Batch Accuracy 0.9688	
+Evaluate: [63/94]	Batch Accuracy 0.9688	
+Evaluate: [64/94]	Batch Accuracy 0.9688	
+Evaluate: [65/94]	Batch Accuracy 0.9922	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9453	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9609	
+Evaluate: [71/94]	Batch Accuracy 1.0000	
+Evaluate: [72/94]	Batch Accuracy 0.9531	
+Evaluate: [73/94]	Batch Accuracy 0.9922	
+Evaluate: [74/94]	Batch Accuracy 0.9531	
+Evaluate: [75/94]	Batch Accuracy 0.9453	
+Evaluate: [76/94]	Batch Accuracy 0.9609	
+Evaluate: [77/94]	Batch Accuracy 0.9766	
+Evaluate: [78/94]	Batch Accuracy 0.9609	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9766	
+Evaluate: [81/94]	Batch Accuracy 0.9688	
+Evaluate: [82/94]	Batch Accuracy 0.9922	
+Evaluate: [83/94]	Batch Accuracy 0.9766	
+Evaluate: [84/94]	Batch Accuracy 0.9531	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9453	
+Evaluate: [89/94]	Batch Accuracy 0.9844	
+Evaluate: [90/94]	Batch Accuracy 0.9922	
+Evaluate: [91/94]	Batch Accuracy 0.9297	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9601
+Epoch: [7][0/375]	Batch Time 0.004 	Batch Loss 0.0905	Train Accuracy 0.9844	
+Epoch: [7][10/375]	Batch Time 0.003 	Batch Loss 0.1810	Train Accuracy 0.9531	
+Epoch: [7][20/375]	Batch Time 0.003 	Batch Loss 0.1374	Train Accuracy 0.9688	
+Epoch: [7][30/375]	Batch Time 0.003 	Batch Loss 0.0321	Train Accuracy 0.9922	
+Epoch: [7][40/375]	Batch Time 0.003 	Batch Loss 0.1547	Train Accuracy 0.9531	
+Epoch: [7][50/375]	Batch Time 0.003 	Batch Loss 0.1235	Train Accuracy 0.9609	
+Epoch: [7][60/375]	Batch Time 0.004 	Batch Loss 0.0995	Train Accuracy 0.9688	
+Epoch: [7][70/375]	Batch Time 0.003 	Batch Loss 0.0770	Train Accuracy 0.9766	
+Epoch: [7][80/375]	Batch Time 0.003 	Batch Loss 0.1160	Train Accuracy 0.9766	
+Epoch: [7][90/375]	Batch Time 0.003 	Batch Loss 0.2052	Train Accuracy 0.9141	
+Epoch: [7][100/375]	Batch Time 0.003 	Batch Loss 0.0891	Train Accuracy 0.9766	
+Epoch: [7][110/375]	Batch Time 0.003 	Batch Loss 0.1181	Train Accuracy 0.9609	
+Epoch: [7][120/375]	Batch Time 0.003 	Batch Loss 0.1121	Train Accuracy 0.9844	
+Epoch: [7][130/375]	Batch Time 0.003 	Batch Loss 0.1199	Train Accuracy 0.9609	
+Epoch: [7][140/375]	Batch Time 0.003 	Batch Loss 0.1235	Train Accuracy 0.9531	
+Epoch: [7][150/375]	Batch Time 0.003 	Batch Loss 0.1134	Train Accuracy 0.9766	
+Epoch: [7][160/375]	Batch Time 0.003 	Batch Loss 0.1117	Train Accuracy 0.9844	
+Epoch: [7][170/375]	Batch Time 0.003 	Batch Loss 0.0223	Train Accuracy 1.0000	
+Epoch: [7][180/375]	Batch Time 0.003 	Batch Loss 0.1064	Train Accuracy 0.9688	
+Epoch: [7][190/375]	Batch Time 0.003 	Batch Loss 0.0534	Train Accuracy 0.9922	
+Epoch: [7][200/375]	Batch Time 0.003 	Batch Loss 0.0999	Train Accuracy 0.9688	
+Epoch: [7][210/375]	Batch Time 0.003 	Batch Loss 0.1079	Train Accuracy 0.9844	
+Epoch: [7][220/375]	Batch Time 0.003 	Batch Loss 0.0788	Train Accuracy 0.9766	
+Epoch: [7][230/375]	Batch Time 0.003 	Batch Loss 0.0905	Train Accuracy 0.9609	
+Epoch: [7][240/375]	Batch Time 0.003 	Batch Loss 0.0917	Train Accuracy 0.9766	
+Epoch: [7][250/375]	Batch Time 0.003 	Batch Loss 0.1271	Train Accuracy 0.9688	
+Epoch: [7][260/375]	Batch Time 0.003 	Batch Loss 0.1349	Train Accuracy 0.9609	
+Epoch: [7][270/375]	Batch Time 0.003 	Batch Loss 0.1290	Train Accuracy 0.9531	
+Epoch: [7][280/375]	Batch Time 0.003 	Batch Loss 0.1018	Train Accuracy 0.9688	
+Epoch: [7][290/375]	Batch Time 0.003 	Batch Loss 0.1199	Train Accuracy 0.9375	
+Epoch: [7][300/375]	Batch Time 0.003 	Batch Loss 0.1040	Train Accuracy 0.9844	
+Epoch: [7][310/375]	Batch Time 0.003 	Batch Loss 0.0839	Train Accuracy 0.9609	
+Epoch: [7][320/375]	Batch Time 0.003 	Batch Loss 0.1793	Train Accuracy 0.9453	
+Epoch: [7][330/375]	Batch Time 0.003 	Batch Loss 0.1368	Train Accuracy 0.9609	
+Epoch: [7][340/375]	Batch Time 0.003 	Batch Loss 0.1082	Train Accuracy 0.9844	
+Epoch: [7][350/375]	Batch Time 0.004 	Batch Loss 0.1815	Train Accuracy 0.9453	
+Epoch: [7][360/375]	Batch Time 0.003 	Batch Loss 0.1196	Train Accuracy 0.9531	
+Epoch: [7][370/375]	Batch Time 0.003 	Batch Loss 0.1375	Train Accuracy 0.9609	
+* Average Accuracy of Epoch 7 is: 0.9655
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9844	
+Evaluate: [2/94]	Batch Accuracy 0.9297	
+Evaluate: [3/94]	Batch Accuracy 0.9922	
+Evaluate: [4/94]	Batch Accuracy 0.9609	
+Evaluate: [5/94]	Batch Accuracy 0.9844	
+Evaluate: [6/94]	Batch Accuracy 0.9844	
+Evaluate: [7/94]	Batch Accuracy 0.8750	
+Evaluate: [8/94]	Batch Accuracy 0.9531	
+Evaluate: [9/94]	Batch Accuracy 0.9297	
+Evaluate: [10/94]	Batch Accuracy 0.9844	
+Evaluate: [11/94]	Batch Accuracy 0.9062	
+Evaluate: [12/94]	Batch Accuracy 0.9219	
+Evaluate: [13/94]	Batch Accuracy 0.9766	
+Evaluate: [14/94]	Batch Accuracy 0.9141	
+Evaluate: [15/94]	Batch Accuracy 0.9531	
+Evaluate: [16/94]	Batch Accuracy 0.9688	
+Evaluate: [17/94]	Batch Accuracy 0.9453	
+Evaluate: [18/94]	Batch Accuracy 0.9062	
+Evaluate: [19/94]	Batch Accuracy 0.9844	
+Evaluate: [20/94]	Batch Accuracy 0.9453	
+Evaluate: [21/94]	Batch Accuracy 0.9688	
+Evaluate: [22/94]	Batch Accuracy 0.9844	
+Evaluate: [23/94]	Batch Accuracy 0.9844	
+Evaluate: [24/94]	Batch Accuracy 0.9688	
+Evaluate: [25/94]	Batch Accuracy 0.9609	
+Evaluate: [26/94]	Batch Accuracy 0.9766	
+Evaluate: [27/94]	Batch Accuracy 0.9688	
+Evaluate: [28/94]	Batch Accuracy 0.9766	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9766	
+Evaluate: [31/94]	Batch Accuracy 0.9609	
+Evaluate: [32/94]	Batch Accuracy 0.9453	
+Evaluate: [33/94]	Batch Accuracy 0.9609	
+Evaluate: [34/94]	Batch Accuracy 0.9688	
+Evaluate: [35/94]	Batch Accuracy 0.9688	
+Evaluate: [36/94]	Batch Accuracy 0.9453	
+Evaluate: [37/94]	Batch Accuracy 0.9453	
+Evaluate: [38/94]	Batch Accuracy 0.9062	
+Evaluate: [39/94]	Batch Accuracy 0.9141	
+Evaluate: [40/94]	Batch Accuracy 0.9688	
+Evaluate: [41/94]	Batch Accuracy 0.9844	
+Evaluate: [42/94]	Batch Accuracy 0.9844	
+Evaluate: [43/94]	Batch Accuracy 0.9609	
+Evaluate: [44/94]	Batch Accuracy 0.9219	
+Evaluate: [45/94]	Batch Accuracy 0.9531	
+Evaluate: [46/94]	Batch Accuracy 0.9531	
+Evaluate: [47/94]	Batch Accuracy 0.9688	
+Evaluate: [48/94]	Batch Accuracy 0.9766	
+Evaluate: [49/94]	Batch Accuracy 0.9766	
+Evaluate: [50/94]	Batch Accuracy 0.9688	
+Evaluate: [51/94]	Batch Accuracy 0.9609	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9453	
+Evaluate: [54/94]	Batch Accuracy 0.9531	
+Evaluate: [55/94]	Batch Accuracy 0.9688	
+Evaluate: [56/94]	Batch Accuracy 0.9375	
+Evaluate: [57/94]	Batch Accuracy 0.9688	
+Evaluate: [58/94]	Batch Accuracy 0.9609	
+Evaluate: [59/94]	Batch Accuracy 0.9844	
+Evaluate: [60/94]	Batch Accuracy 0.9531	
+Evaluate: [61/94]	Batch Accuracy 0.9531	
+Evaluate: [62/94]	Batch Accuracy 0.9766	
+Evaluate: [63/94]	Batch Accuracy 0.9688	
+Evaluate: [64/94]	Batch Accuracy 0.9688	
+Evaluate: [65/94]	Batch Accuracy 0.9922	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9453	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9609	
+Evaluate: [71/94]	Batch Accuracy 1.0000	
+Evaluate: [72/94]	Batch Accuracy 0.9609	
+Evaluate: [73/94]	Batch Accuracy 0.9922	
+Evaluate: [74/94]	Batch Accuracy 0.9609	
+Evaluate: [75/94]	Batch Accuracy 0.9453	
+Evaluate: [76/94]	Batch Accuracy 0.9766	
+Evaluate: [77/94]	Batch Accuracy 0.9766	
+Evaluate: [78/94]	Batch Accuracy 0.9766	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9844	
+Evaluate: [81/94]	Batch Accuracy 0.9766	
+Evaluate: [82/94]	Batch Accuracy 0.9922	
+Evaluate: [83/94]	Batch Accuracy 0.9766	
+Evaluate: [84/94]	Batch Accuracy 0.9531	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9453	
+Evaluate: [89/94]	Batch Accuracy 0.9766	
+Evaluate: [90/94]	Batch Accuracy 1.0000	
+Evaluate: [91/94]	Batch Accuracy 0.9219	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9635
+Epoch: [8][0/375]	Batch Time 0.004 	Batch Loss 0.0828	Train Accuracy 0.9922	
+Epoch: [8][10/375]	Batch Time 0.003 	Batch Loss 0.1634	Train Accuracy 0.9531	
+Epoch: [8][20/375]	Batch Time 0.003 	Batch Loss 0.1282	Train Accuracy 0.9766	
+Epoch: [8][30/375]	Batch Time 0.004 	Batch Loss 0.0302	Train Accuracy 0.9922	
+Epoch: [8][40/375]	Batch Time 0.003 	Batch Loss 0.1398	Train Accuracy 0.9609	
+Epoch: [8][50/375]	Batch Time 0.003 	Batch Loss 0.1126	Train Accuracy 0.9688	
+Epoch: [8][60/375]	Batch Time 0.003 	Batch Loss 0.0907	Train Accuracy 0.9688	
+Epoch: [8][70/375]	Batch Time 0.003 	Batch Loss 0.0679	Train Accuracy 0.9766	
+Epoch: [8][80/375]	Batch Time 0.003 	Batch Loss 0.1065	Train Accuracy 0.9766	
+Epoch: [8][90/375]	Batch Time 0.003 	Batch Loss 0.1839	Train Accuracy 0.9219	
+Epoch: [8][100/375]	Batch Time 0.003 	Batch Loss 0.0813	Train Accuracy 0.9766	
+Epoch: [8][110/375]	Batch Time 0.003 	Batch Loss 0.0981	Train Accuracy 0.9688	
+Epoch: [8][120/375]	Batch Time 0.003 	Batch Loss 0.1057	Train Accuracy 0.9844	
+Epoch: [8][130/375]	Batch Time 0.003 	Batch Loss 0.1099	Train Accuracy 0.9609	
+Epoch: [8][140/375]	Batch Time 0.003 	Batch Loss 0.1113	Train Accuracy 0.9531	
+Epoch: [8][150/375]	Batch Time 0.003 	Batch Loss 0.1023	Train Accuracy 0.9766	
+Epoch: [8][160/375]	Batch Time 0.003 	Batch Loss 0.1033	Train Accuracy 0.9844	
+Epoch: [8][170/375]	Batch Time 0.003 	Batch Loss 0.0192	Train Accuracy 1.0000	
+Epoch: [8][180/375]	Batch Time 0.003 	Batch Loss 0.0926	Train Accuracy 0.9844	
+Epoch: [8][190/375]	Batch Time 0.003 	Batch Loss 0.0447	Train Accuracy 0.9922	
+Epoch: [8][200/375]	Batch Time 0.003 	Batch Loss 0.0896	Train Accuracy 0.9766	
+Epoch: [8][210/375]	Batch Time 0.003 	Batch Loss 0.0978	Train Accuracy 0.9844	
+Epoch: [8][220/375]	Batch Time 0.003 	Batch Loss 0.0703	Train Accuracy 0.9766	
+Epoch: [8][230/375]	Batch Time 0.003 	Batch Loss 0.0805	Train Accuracy 0.9609	
+Epoch: [8][240/375]	Batch Time 0.003 	Batch Loss 0.0812	Train Accuracy 0.9766	
+Epoch: [8][250/375]	Batch Time 0.003 	Batch Loss 0.1142	Train Accuracy 0.9688	
+Epoch: [8][260/375]	Batch Time 0.003 	Batch Loss 0.1237	Train Accuracy 0.9688	
+Epoch: [8][270/375]	Batch Time 0.003 	Batch Loss 0.1116	Train Accuracy 0.9609	
+Epoch: [8][280/375]	Batch Time 0.003 	Batch Loss 0.0947	Train Accuracy 0.9688	
+Epoch: [8][290/375]	Batch Time 0.003 	Batch Loss 0.1057	Train Accuracy 0.9531	
+Epoch: [8][300/375]	Batch Time 0.003 	Batch Loss 0.0946	Train Accuracy 0.9844	
+Epoch: [8][310/375]	Batch Time 0.003 	Batch Loss 0.0750	Train Accuracy 0.9609	
+Epoch: [8][320/375]	Batch Time 0.003 	Batch Loss 0.1673	Train Accuracy 0.9531	
+Epoch: [8][330/375]	Batch Time 0.003 	Batch Loss 0.1224	Train Accuracy 0.9688	
+Epoch: [8][340/375]	Batch Time 0.003 	Batch Loss 0.1002	Train Accuracy 0.9844	
+Epoch: [8][350/375]	Batch Time 0.003 	Batch Loss 0.1619	Train Accuracy 0.9531	
+Epoch: [8][360/375]	Batch Time 0.003 	Batch Loss 0.1077	Train Accuracy 0.9609	
+Epoch: [8][370/375]	Batch Time 0.004 	Batch Loss 0.1252	Train Accuracy 0.9688	
+* Average Accuracy of Epoch 8 is: 0.9690
+Evaluate: [0/94]	Batch Accuracy 0.9453	
+Evaluate: [1/94]	Batch Accuracy 0.9844	
+Evaluate: [2/94]	Batch Accuracy 0.9297	
+Evaluate: [3/94]	Batch Accuracy 0.9922	
+Evaluate: [4/94]	Batch Accuracy 0.9609	
+Evaluate: [5/94]	Batch Accuracy 0.9844	
+Evaluate: [6/94]	Batch Accuracy 0.9922	
+Evaluate: [7/94]	Batch Accuracy 0.8828	
+Evaluate: [8/94]	Batch Accuracy 0.9609	
+Evaluate: [9/94]	Batch Accuracy 0.9375	
+Evaluate: [10/94]	Batch Accuracy 0.9844	
+Evaluate: [11/94]	Batch Accuracy 0.9141	
+Evaluate: [12/94]	Batch Accuracy 0.9297	
+Evaluate: [13/94]	Batch Accuracy 0.9766	
+Evaluate: [14/94]	Batch Accuracy 0.9141	
+Evaluate: [15/94]	Batch Accuracy 0.9531	
+Evaluate: [16/94]	Batch Accuracy 0.9688	
+Evaluate: [17/94]	Batch Accuracy 0.9531	
+Evaluate: [18/94]	Batch Accuracy 0.8984	
+Evaluate: [19/94]	Batch Accuracy 0.9844	
+Evaluate: [20/94]	Batch Accuracy 0.9531	
+Evaluate: [21/94]	Batch Accuracy 0.9688	
+Evaluate: [22/94]	Batch Accuracy 0.9844	
+Evaluate: [23/94]	Batch Accuracy 0.9844	
+Evaluate: [24/94]	Batch Accuracy 0.9766	
+Evaluate: [25/94]	Batch Accuracy 0.9609	
+Evaluate: [26/94]	Batch Accuracy 0.9844	
+Evaluate: [27/94]	Batch Accuracy 0.9688	
+Evaluate: [28/94]	Batch Accuracy 0.9766	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9766	
+Evaluate: [31/94]	Batch Accuracy 0.9688	
+Evaluate: [32/94]	Batch Accuracy 0.9453	
+Evaluate: [33/94]	Batch Accuracy 0.9609	
+Evaluate: [34/94]	Batch Accuracy 0.9688	
+Evaluate: [35/94]	Batch Accuracy 0.9766	
+Evaluate: [36/94]	Batch Accuracy 0.9453	
+Evaluate: [37/94]	Batch Accuracy 0.9453	
+Evaluate: [38/94]	Batch Accuracy 0.9062	
+Evaluate: [39/94]	Batch Accuracy 0.9453	
+Evaluate: [40/94]	Batch Accuracy 0.9766	
+Evaluate: [41/94]	Batch Accuracy 0.9844	
+Evaluate: [42/94]	Batch Accuracy 0.9844	
+Evaluate: [43/94]	Batch Accuracy 0.9609	
+Evaluate: [44/94]	Batch Accuracy 0.9297	
+Evaluate: [45/94]	Batch Accuracy 0.9531	
+Evaluate: [46/94]	Batch Accuracy 0.9609	
+Evaluate: [47/94]	Batch Accuracy 0.9688	
+Evaluate: [48/94]	Batch Accuracy 0.9844	
+Evaluate: [49/94]	Batch Accuracy 0.9844	
+Evaluate: [50/94]	Batch Accuracy 0.9766	
+Evaluate: [51/94]	Batch Accuracy 0.9609	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9531	
+Evaluate: [54/94]	Batch Accuracy 0.9531	
+Evaluate: [55/94]	Batch Accuracy 0.9766	
+Evaluate: [56/94]	Batch Accuracy 0.9375	
+Evaluate: [57/94]	Batch Accuracy 0.9766	
+Evaluate: [58/94]	Batch Accuracy 0.9609	
+Evaluate: [59/94]	Batch Accuracy 0.9844	
+Evaluate: [60/94]	Batch Accuracy 0.9531	
+Evaluate: [61/94]	Batch Accuracy 0.9531	
+Evaluate: [62/94]	Batch Accuracy 0.9766	
+Evaluate: [63/94]	Batch Accuracy 0.9609	
+Evaluate: [64/94]	Batch Accuracy 0.9688	
+Evaluate: [65/94]	Batch Accuracy 0.9922	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9453	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9609	
+Evaluate: [71/94]	Batch Accuracy 1.0000	
+Evaluate: [72/94]	Batch Accuracy 0.9609	
+Evaluate: [73/94]	Batch Accuracy 1.0000	
+Evaluate: [74/94]	Batch Accuracy 0.9609	
+Evaluate: [75/94]	Batch Accuracy 0.9453	
+Evaluate: [76/94]	Batch Accuracy 0.9766	
+Evaluate: [77/94]	Batch Accuracy 0.9688	
+Evaluate: [78/94]	Batch Accuracy 0.9766	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9844	
+Evaluate: [81/94]	Batch Accuracy 0.9766	
+Evaluate: [82/94]	Batch Accuracy 1.0000	
+Evaluate: [83/94]	Batch Accuracy 0.9766	
+Evaluate: [84/94]	Batch Accuracy 0.9531	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9375	
+Evaluate: [89/94]	Batch Accuracy 0.9844	
+Evaluate: [90/94]	Batch Accuracy 1.0000	
+Evaluate: [91/94]	Batch Accuracy 0.9297	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9656
+Epoch: [9][0/375]	Batch Time 0.005 	Batch Loss 0.0766	Train Accuracy 0.9922	
+Epoch: [9][10/375]	Batch Time 0.003 	Batch Loss 0.1494	Train Accuracy 0.9688	
+Epoch: [9][20/375]	Batch Time 0.007 	Batch Loss 0.1212	Train Accuracy 0.9766	
+Epoch: [9][30/375]	Batch Time 0.004 	Batch Loss 0.0288	Train Accuracy 0.9922	
+Epoch: [9][40/375]	Batch Time 0.003 	Batch Loss 0.1282	Train Accuracy 0.9688	
+Epoch: [9][50/375]	Batch Time 0.003 	Batch Loss 0.1034	Train Accuracy 0.9688	
+Epoch: [9][60/375]	Batch Time 0.004 	Batch Loss 0.0832	Train Accuracy 0.9688	
+Epoch: [9][70/375]	Batch Time 0.003 	Batch Loss 0.0601	Train Accuracy 0.9766	
+Epoch: [9][80/375]	Batch Time 0.003 	Batch Loss 0.0983	Train Accuracy 0.9766	
+Epoch: [9][90/375]	Batch Time 0.003 	Batch Loss 0.1664	Train Accuracy 0.9297	
+Epoch: [9][100/375]	Batch Time 0.003 	Batch Loss 0.0747	Train Accuracy 0.9766	
+Epoch: [9][110/375]	Batch Time 0.003 	Batch Loss 0.0818	Train Accuracy 0.9766	
+Epoch: [9][120/375]	Batch Time 0.003 	Batch Loss 0.1005	Train Accuracy 0.9844	
+Epoch: [9][130/375]	Batch Time 0.003 	Batch Loss 0.1022	Train Accuracy 0.9531	
+Epoch: [9][140/375]	Batch Time 0.003 	Batch Loss 0.1003	Train Accuracy 0.9609	
+Epoch: [9][150/375]	Batch Time 0.003 	Batch Loss 0.0929	Train Accuracy 0.9766	
+Epoch: [9][160/375]	Batch Time 0.003 	Batch Loss 0.0958	Train Accuracy 0.9844	
+Epoch: [9][170/375]	Batch Time 0.003 	Batch Loss 0.0168	Train Accuracy 1.0000	
+Epoch: [9][180/375]	Batch Time 0.003 	Batch Loss 0.0818	Train Accuracy 0.9844	
+Epoch: [9][190/375]	Batch Time 0.003 	Batch Loss 0.0380	Train Accuracy 0.9922	
+Epoch: [9][200/375]	Batch Time 0.003 	Batch Loss 0.0804	Train Accuracy 0.9766	
+Epoch: [9][210/375]	Batch Time 0.003 	Batch Loss 0.0899	Train Accuracy 0.9844	
+Epoch: [9][220/375]	Batch Time 0.004 	Batch Loss 0.0636	Train Accuracy 0.9766	
+Epoch: [9][230/375]	Batch Time 0.003 	Batch Loss 0.0722	Train Accuracy 0.9688	
+Epoch: [9][240/375]	Batch Time 0.003 	Batch Loss 0.0725	Train Accuracy 0.9844	
+Epoch: [9][250/375]	Batch Time 0.003 	Batch Loss 0.1025	Train Accuracy 0.9688	
+Epoch: [9][260/375]	Batch Time 0.003 	Batch Loss 0.1144	Train Accuracy 0.9688	
+Epoch: [9][270/375]	Batch Time 0.003 	Batch Loss 0.0963	Train Accuracy 0.9688	
+Epoch: [9][280/375]	Batch Time 0.003 	Batch Loss 0.0883	Train Accuracy 0.9688	
+Epoch: [9][290/375]	Batch Time 0.003 	Batch Loss 0.0934	Train Accuracy 0.9688	
+Epoch: [9][300/375]	Batch Time 0.003 	Batch Loss 0.0867	Train Accuracy 0.9844	
+Epoch: [9][310/375]	Batch Time 0.003 	Batch Loss 0.0681	Train Accuracy 0.9688	
+Epoch: [9][320/375]	Batch Time 0.004 	Batch Loss 0.1568	Train Accuracy 0.9531	
+Epoch: [9][330/375]	Batch Time 0.003 	Batch Loss 0.1103	Train Accuracy 0.9766	
+Epoch: [9][340/375]	Batch Time 0.003 	Batch Loss 0.0939	Train Accuracy 0.9844	
+Epoch: [9][350/375]	Batch Time 0.003 	Batch Loss 0.1450	Train Accuracy 0.9609	
+Epoch: [9][360/375]	Batch Time 0.003 	Batch Loss 0.0976	Train Accuracy 0.9609	
+Epoch: [9][370/375]	Batch Time 0.003 	Batch Loss 0.1153	Train Accuracy 0.9688	
+* Average Accuracy of Epoch 9 is: 0.9721
+Evaluate: [0/94]	Batch Accuracy 0.9609	
+Evaluate: [1/94]	Batch Accuracy 0.9844	
+Evaluate: [2/94]	Batch Accuracy 0.9375	
+Evaluate: [3/94]	Batch Accuracy 0.9922	
+Evaluate: [4/94]	Batch Accuracy 0.9531	
+Evaluate: [5/94]	Batch Accuracy 0.9922	
+Evaluate: [6/94]	Batch Accuracy 0.9922	
+Evaluate: [7/94]	Batch Accuracy 0.8828	
+Evaluate: [8/94]	Batch Accuracy 0.9609	
+Evaluate: [9/94]	Batch Accuracy 0.9453	
+Evaluate: [10/94]	Batch Accuracy 0.9844	
+Evaluate: [11/94]	Batch Accuracy 0.9141	
+Evaluate: [12/94]	Batch Accuracy 0.9375	
+Evaluate: [13/94]	Batch Accuracy 0.9766	
+Evaluate: [14/94]	Batch Accuracy 0.9219	
+Evaluate: [15/94]	Batch Accuracy 0.9609	
+Evaluate: [16/94]	Batch Accuracy 0.9688	
+Evaluate: [17/94]	Batch Accuracy 0.9531	
+Evaluate: [18/94]	Batch Accuracy 0.8984	
+Evaluate: [19/94]	Batch Accuracy 0.9844	
+Evaluate: [20/94]	Batch Accuracy 0.9609	
+Evaluate: [21/94]	Batch Accuracy 0.9688	
+Evaluate: [22/94]	Batch Accuracy 0.9844	
+Evaluate: [23/94]	Batch Accuracy 0.9844	
+Evaluate: [24/94]	Batch Accuracy 0.9766	
+Evaluate: [25/94]	Batch Accuracy 0.9688	
+Evaluate: [26/94]	Batch Accuracy 0.9766	
+Evaluate: [27/94]	Batch Accuracy 0.9688	
+Evaluate: [28/94]	Batch Accuracy 0.9844	
+Evaluate: [29/94]	Batch Accuracy 0.9531	
+Evaluate: [30/94]	Batch Accuracy 0.9766	
+Evaluate: [31/94]	Batch Accuracy 0.9688	
+Evaluate: [32/94]	Batch Accuracy 0.9453	
+Evaluate: [33/94]	Batch Accuracy 0.9609	
+Evaluate: [34/94]	Batch Accuracy 0.9688	
+Evaluate: [35/94]	Batch Accuracy 0.9766	
+Evaluate: [36/94]	Batch Accuracy 0.9609	
+Evaluate: [37/94]	Batch Accuracy 0.9531	
+Evaluate: [38/94]	Batch Accuracy 0.9141	
+Evaluate: [39/94]	Batch Accuracy 0.9453	
+Evaluate: [40/94]	Batch Accuracy 0.9766	
+Evaluate: [41/94]	Batch Accuracy 0.9844	
+Evaluate: [42/94]	Batch Accuracy 0.9844	
+Evaluate: [43/94]	Batch Accuracy 0.9609	
+Evaluate: [44/94]	Batch Accuracy 0.9375	
+Evaluate: [45/94]	Batch Accuracy 0.9531	
+Evaluate: [46/94]	Batch Accuracy 0.9609	
+Evaluate: [47/94]	Batch Accuracy 0.9766	
+Evaluate: [48/94]	Batch Accuracy 0.9844	
+Evaluate: [49/94]	Batch Accuracy 0.9844	
+Evaluate: [50/94]	Batch Accuracy 0.9766	
+Evaluate: [51/94]	Batch Accuracy 0.9688	
+Evaluate: [52/94]	Batch Accuracy 1.0000	
+Evaluate: [53/94]	Batch Accuracy 0.9531	
+Evaluate: [54/94]	Batch Accuracy 0.9531	
+Evaluate: [55/94]	Batch Accuracy 0.9766	
+Evaluate: [56/94]	Batch Accuracy 0.9375	
+Evaluate: [57/94]	Batch Accuracy 0.9766	
+Evaluate: [58/94]	Batch Accuracy 0.9609	
+Evaluate: [59/94]	Batch Accuracy 0.9844	
+Evaluate: [60/94]	Batch Accuracy 0.9531	
+Evaluate: [61/94]	Batch Accuracy 0.9531	
+Evaluate: [62/94]	Batch Accuracy 0.9766	
+Evaluate: [63/94]	Batch Accuracy 0.9609	
+Evaluate: [64/94]	Batch Accuracy 0.9688	
+Evaluate: [65/94]	Batch Accuracy 0.9844	
+Evaluate: [66/94]	Batch Accuracy 0.9688	
+Evaluate: [67/94]	Batch Accuracy 0.9531	
+Evaluate: [68/94]	Batch Accuracy 0.9766	
+Evaluate: [69/94]	Batch Accuracy 0.9531	
+Evaluate: [70/94]	Batch Accuracy 0.9609	
+Evaluate: [71/94]	Batch Accuracy 1.0000	
+Evaluate: [72/94]	Batch Accuracy 0.9609	
+Evaluate: [73/94]	Batch Accuracy 1.0000	
+Evaluate: [74/94]	Batch Accuracy 0.9609	
+Evaluate: [75/94]	Batch Accuracy 0.9453	
+Evaluate: [76/94]	Batch Accuracy 0.9766	
+Evaluate: [77/94]	Batch Accuracy 0.9766	
+Evaluate: [78/94]	Batch Accuracy 0.9766	
+Evaluate: [79/94]	Batch Accuracy 0.9922	
+Evaluate: [80/94]	Batch Accuracy 0.9844	
+Evaluate: [81/94]	Batch Accuracy 0.9688	
+Evaluate: [82/94]	Batch Accuracy 1.0000	
+Evaluate: [83/94]	Batch Accuracy 0.9766	
+Evaluate: [84/94]	Batch Accuracy 0.9531	
+Evaluate: [85/94]	Batch Accuracy 0.9922	
+Evaluate: [86/94]	Batch Accuracy 1.0000	
+Evaluate: [87/94]	Batch Accuracy 0.9922	
+Evaluate: [88/94]	Batch Accuracy 0.9453	
+Evaluate: [89/94]	Batch Accuracy 0.9844	
+Evaluate: [90/94]	Batch Accuracy 1.0000	
+Evaluate: [91/94]	Batch Accuracy 0.9297	
+Evaluate: [92/94]	Batch Accuracy 1.0000	
+Evaluate: [93/94]	Batch Accuracy 0.9896	
+* Validation Accuracy: 0.9670
+Evaluate: [0/79]	Batch Accuracy 0.9922	
+Evaluate: [1/79]	Batch Accuracy 0.9844	
+Evaluate: [2/79]	Batch Accuracy 0.9766	
+Evaluate: [3/79]	Batch Accuracy 0.9688	
+Evaluate: [4/79]	Batch Accuracy 0.9375	
+Evaluate: [5/79]	Batch Accuracy 0.9453	
+Evaluate: [6/79]	Batch Accuracy 0.9766	
+Evaluate: [7/79]	Batch Accuracy 0.9453	
+Evaluate: [8/79]	Batch Accuracy 0.9531	
+Evaluate: [9/79]	Batch Accuracy 0.9141	
+Evaluate: [10/79]	Batch Accuracy 0.9375	
+Evaluate: [11/79]	Batch Accuracy 0.9453	
+Evaluate: [12/79]	Batch Accuracy 0.9609	
+Evaluate: [13/79]	Batch Accuracy 0.9453	
+Evaluate: [14/79]	Batch Accuracy 0.9766	
+Evaluate: [15/79]	Batch Accuracy 0.9297	
+Evaluate: [16/79]	Batch Accuracy 0.9219	
+Evaluate: [17/79]	Batch Accuracy 0.9453	
+Evaluate: [18/79]	Batch Accuracy 0.9453	
+Evaluate: [19/79]	Batch Accuracy 0.9766	
+Evaluate: [20/79]	Batch Accuracy 0.9531	
+Evaluate: [21/79]	Batch Accuracy 0.9922	
+Evaluate: [22/79]	Batch Accuracy 0.9453	
+Evaluate: [23/79]	Batch Accuracy 0.9688	
+Evaluate: [24/79]	Batch Accuracy 0.9766	
+Evaluate: [25/79]	Batch Accuracy 0.9766	
+Evaluate: [26/79]	Batch Accuracy 0.9766	
+Evaluate: [27/79]	Batch Accuracy 0.9531	
+Evaluate: [28/79]	Batch Accuracy 0.9844	
+Evaluate: [29/79]	Batch Accuracy 0.9141	
+Evaluate: [30/79]	Batch Accuracy 0.9297	
+Evaluate: [31/79]	Batch Accuracy 0.9219	
+Evaluate: [32/79]	Batch Accuracy 0.9375	
+Evaluate: [33/79]	Batch Accuracy 0.9375	
+Evaluate: [34/79]	Batch Accuracy 0.9531	
+Evaluate: [35/79]	Batch Accuracy 0.9453	
+Evaluate: [36/79]	Batch Accuracy 0.9766	
+Evaluate: [37/79]	Batch Accuracy 0.9609	
+Evaluate: [38/79]	Batch Accuracy 0.9453	
+Evaluate: [39/79]	Batch Accuracy 0.9922	
+Evaluate: [40/79]	Batch Accuracy 0.9844	
+Evaluate: [41/79]	Batch Accuracy 0.9922	
+Evaluate: [42/79]	Batch Accuracy 0.9844	
+Evaluate: [43/79]	Batch Accuracy 0.9844	
+Evaluate: [44/79]	Batch Accuracy 0.9609	
+Evaluate: [45/79]	Batch Accuracy 0.9766	
+Evaluate: [46/79]	Batch Accuracy 0.9453	
+Evaluate: [47/79]	Batch Accuracy 0.9531	
+Evaluate: [48/79]	Batch Accuracy 0.9688	
+Evaluate: [49/79]	Batch Accuracy 0.9844	
+Evaluate: [50/79]	Batch Accuracy 0.9688	
+Evaluate: [51/79]	Batch Accuracy 0.9375	
+Evaluate: [52/79]	Batch Accuracy 0.9766	
+Evaluate: [53/79]	Batch Accuracy 1.0000	
+Evaluate: [54/79]	Batch Accuracy 1.0000	
+Evaluate: [55/79]	Batch Accuracy 1.0000	
+Evaluate: [56/79]	Batch Accuracy 0.9922	
+Evaluate: [57/79]	Batch Accuracy 1.0000	
+Evaluate: [58/79]	Batch Accuracy 0.9688	
+Evaluate: [59/79]	Batch Accuracy 1.0000	
+Evaluate: [60/79]	Batch Accuracy 0.9922	
+Evaluate: [61/79]	Batch Accuracy 0.9766	
+Evaluate: [62/79]	Batch Accuracy 0.9766	
+Evaluate: [63/79]	Batch Accuracy 0.9844	
+Evaluate: [64/79]	Batch Accuracy 0.9844	
+Evaluate: [65/79]	Batch Accuracy 0.9688	
+Evaluate: [66/79]	Batch Accuracy 0.9688	
+Evaluate: [67/79]	Batch Accuracy 1.0000	
+Evaluate: [68/79]	Batch Accuracy 1.0000	
+Evaluate: [69/79]	Batch Accuracy 0.9922	
+Evaluate: [70/79]	Batch Accuracy 0.9531	
+Evaluate: [71/79]	Batch Accuracy 1.0000	
+Evaluate: [72/79]	Batch Accuracy 0.9922	
+Evaluate: [73/79]	Batch Accuracy 1.0000	
+Evaluate: [74/79]	Batch Accuracy 0.9766	
+Evaluate: [75/79]	Batch Accuracy 0.9375	
+Evaluate: [76/79]	Batch Accuracy 0.9062	
+Evaluate: [77/79]	Batch Accuracy 0.9453	
+Evaluate: [78/79]	Batch Accuracy 1.0000	
+Final Accuracy on Test Data: 0.9661
