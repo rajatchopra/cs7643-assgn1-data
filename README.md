@@ -3,6 +3,7 @@
 Name: rchopra33
 
 What to see inside here:
+
     - configs/config_exp*.yaml
     Each yaml file has different parameters in it for tuning.
 
